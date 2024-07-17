@@ -1,0 +1,708 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FX History | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+FX History
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+FX History
+
+
+
+
+
+
+
+
+
+
+
+FX HistoryThe Agency is adapting to the changing landscape of health care administration and increased use of the Centers for Medicare and Medicaid Services (CMS) Medicaid Information Technology Architecture (MITA) to improve the administration and operation of the Florida Medicaid Enterprise.The Florida Medicaid Management Information System (FMMIS) has historically been the central system within the Florida Medicaid Enterprise; functioning as the single, integrated system for claims processing and information retrieval. As the Medicaid program has grown more complex, the systems needed to support the Florida Medicaid Enterprise have grown in number and complexity.The Medicaid Enterprise System (MES) Procurement Project was re-named Florida Health Care Connections (FX) in the Summer of 2018. FX is a multi-year transformation to modernize the current Medicaid technology using a modular approach, while simultaneously improving overall Agency functionality and building better connections to other data sources and programs.As part of this transformation, the Agency submits an Advance Planning Document (APD) to CMS, which provides the data required to determine if Federal Financial Participation (FFP) is authorized – with the appropriate match rate – for the acquisition of automated data processing equipment and services. The timeline below provides information about the APDs the Agency has submitted to CMS and their respective response.February 2024 – Implementation APD Update (IAPDU)Summary:Update regarding the FX Core Systems Module pause.Revised Federal Fiscal Years 2024 and 2025 budget.Module project updates and vendor contract updates.Revised FX Roadmap.Total (net) Request:Federal Fiscal Year (FFY) 2024 – decrease of ($22,114,963) – new total budget = $155,287,776FFY 2025 – increase of $31,204,266 – new total budget = $161,590,092State Fiscal Year (SFY): SFYs 2024, 2025FFYs covered are 2024 and 2025
+
+    IAPDU
+
+
+    [
+                    
+                2.4 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                419.3 kB
+    ]
+
+March 2023 – Implementation APD Update (IAPDU)Summary:Update regarding the FX Program’s procurement and contracting activitiesRevised roadmap and schedule (including an increased Design, Development, and Implementation period for the Enterprise Data Warehouse vendor)Revised budget request.Updated organizational chart of dedicated state resourcesRequests approval to procure a Medicaid Enterprise System Business Architecture and Streamlined Modular Certification vendor and an Enterprise Penetration Testing vendorTotal (net) Request:Federal Fiscal Year (FFY) 2023 – decrease of ($1,888,196) – new total budget = $128,061,547FFY 2024 – increase of $11,902,012 – new total budget = $177,402,740FFY 2025 = new request totaling $130,385,826State Fiscal Year (SFY): SFYs 2023, 2024, 2025FFYs covered are 2023, 2024, and 2025
+
+    IAPDU
+
+
+    [
+                    
+                1.1 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                248.4 kB
+    ]
+
+June 2022 – Implementation APD Update (IAPDU)Summary:The update contains a request for prior approval of continued and new efforts in our transition program over the next two years and enhanced FFP as noted in the IAPDU. New requests for the FX transition program included in the IAPDU are:FXPA office spaceAdditional State StaffIS/IP Module Systems Integration (MI)Pharmacy Benefits ManagementOrganizational Change ManagementTesting Center of ExcellenceThird Party Liability ModuleTotal (net) Request: $316,365,264State Fiscal Years: The approval covers activities from June 6, 2022 until September 30, 2024 and will be contingent on State budget authority for each fiscal year in that timeframe.
+
+    IAPDU
+
+
+    [
+                    
+                1.4 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                285.2 kB
+    ]
+
+November 2021 – Annual APD Update (APDU)Summary:Updates on Activities for:Professional Services SupportFX InfrastructureFX FMMIS ResolutionRemaining Functional ModulesTotal (net) Request: No ChangeState Fiscal Years: July 1, 2020 - June 30, 2021
+
+    Annual APDU
+
+
+    [
+                    
+                1.7 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                311.8 kB
+    ]
+
+July 2020 – Implementation APD (IAPD)Summary:Planned Activities for:Professional Services SupportFX InfrastructureFX FMMIS ResolutionRemaining Functional ModuleTotal (net) Request: $186,489,881.00 total computable of the APD (federal and state shares) approvalState Fiscal Years: 2nd quarter 2020/2021 – 2nd quarter 2021/2022
+
+    IAPD
+
+
+    [
+                    
+                1.1 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                573.5 kB
+    ]
+
+April 2019 – Update Planning APD (PAPDU)Summary:Updated planning activitiesAdjusted requested federal dollarsTotal (net) Request: $64,154,867State Fiscal Years: No change
+
+    PAPD Update
+
+
+    [
+                    
+                678 kB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                407.5 kB
+    ]
+
+December 2017 – Planning APD (PAPD)Summary:Planning activities for modular transition for Phase IIBuilding infrastructure solicitations, including System Integrator or Enterprise Data WarehouseTotal Request: $65,538,156State Fiscal Years: 2017 – 2020
+
+    PAPD
+
+
+    [
+                    
+                9.8 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                1.3 MB
+    ]
+
+May 2017 – IAPD Update (IAPDU)Summary:Procure the services of an Independent Verification and Validation (IV&V) ServicesTotal Request: $7,849,964State Fiscal Years: 2017 – 2021
+
+    IAPD
+
+
+    [
+                    
+                1.1 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                975.4 kB
+    ]
+
+December 2016 – Implementation APD (IAPD)Summary:Continue planning activities, including Independent Validation and Verification services vendorProcure the services of a Strategic Enterprise Advisory Services vendor to assist the Agency in implementing the Florida Procurement StrategyFlorida Procurement Strategy embedded in the IAPDTotal Request: $34,049,860State Fiscal Years: 2014 – 2022
+
+    IAPD
+
+
+    [
+                    
+                1.2 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                78.7 kB
+    ]
+
+June 2015 – Implementation APD (IAPD)Summary:Progress of PAPDU activitiesRevised dates of milestonesSolicitation plans for the MMIS (including a System Integrator), Fiscal Agent and DSSCMS requested additional information and required the Agency to remove the system integrator services from the solicitation. The Agency decided to re-plan the procurement from the beginning to more aligned with CMS modularity requirements. CMS issued a disapproval of the IAPD.Total Request: $34,049,860State Fiscal Years: 2014 – 2022
+
+    IAPD
+
+
+    [
+                    
+                1.2 MB
+    ]
+
+
+
+    CMS Request for Additional Information
+
+
+    [
+                    
+                238.3 kB
+    ]
+
+
+
+    CMS Disapproval
+
+
+    [
+                    
+                388 kB
+    ]
+
+December 2014 – Update Planning APD (PAPDU)Summary:Increase PMO tasks and costsRemove testing vendor from planningAdd Subject Matter Expert contractTotal Request: $28,489,405Increase: $11,707,878State Fiscal Years: No change
+
+    APD Update
+
+
+    [
+                    
+                1.2 MB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                806.9 kB
+    ]
+
+December 2013 – Planning APD (PAPD)Summary:Determine method of MMIS, Fiscal Agent and DSS turnover or replacementConsultant contract to assist the Agency in research and method of procurementEstablish a Project Management Office (PMO)Procure an Independent Validation and Verification (IV&V) vendorTotal Request: $16,781,530State Fiscal Years: 2014 – 2018
+
+    PAPD
+
+
+    [
+                    
+                803.1 kB
+    ]
+
+
+
+    CMS Approval
+
+
+    [
+                    
+                112.5 kB
+    ]
+
+
+
+
+
+
+
+
+
+
+
+                        Florida Health Care Connections (FX)
+                    
+
+
+
+
+
+                                FX Contact Us
+                            
+
+
+
+                                FX Contracts
+                            
+
+
+
+                                FX FAQs
+                            
+
+
+
+                                FX Governance
+                            
+
+
+
+                                FX History
+                            
+
+
+
+                                FX Interagency Collaboration
+                            
+
+
+
+                                FX Organization
+                            
+
+
+
+                                FX Strategic Roadmap
+                            
+
+
+
+                                FX Vendor Resource Library
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,521 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remittance Advice Provider Alerts | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Remittance Advice Provider Alerts
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Prescribed Drugs
+
+
+
+Remittance Advice Provider Alerts
+
+
+
+
+
+
+
+
+
+
+
+Remittance Advice Provider AlertsIf you would like to search and view previous provider alerts, please go to our Provider Alert archive page.2021April 6, 2021Florida Medicaid Coverage of the COVID-19 Vaccine: UPDATED Vaccine Administration Rates The Agency for Health Care Administration remains committed to ensuring Medicaid recipients receive medically necessary care to prevent and treat the 2019 novel coronavirus (COVID-19). The purpose of this alert is to provide information on updated vaccination administration rates and covered populations. Florida Medicaid will continue to align with the Medicare vaccine administration rates. These rates were updated by the Centers for Medicare and Medicaid Services effective March 15, 2021. COVID-19 vaccines administered with a date of service on or after March 15, 2021, must be paid at the new rates. All guidance is applicable to both the fee-for-service and Statewide Medicaid Managed Care delivery systems unless otherwise stated.Eligible Recipients and Exclusions (updated effective for dates of services starting 3/11/21) Florida Medicaid covers the COVID-19 vaccine administration by age, as specified in the Food and Drug Administration Emergency Use Authorization approval for each vaccine product.Covered: All Medicaid recipients who have full or limited Medicaid benefits are eligible for Medicaid to cover the administration of the COVID-19 vaccine. This includes individuals:With Medically Needy/ Share of Cost Medicaid who have incurred their share of cost for the month and whose Medicaid is activated.Eligible for Family Planning benefits (beginning March 11, 2021).Eligible for emergency Medicaid services (beginning March 11, 2021).Not Covered: If the recipient has any other primary insurance, the primary insurance must be billed since Medicaid is the payor of last resort.Florida Medicaid will not reimburse the COVID-19 vaccine administration for recipients withMedicare; orCommercial insurance.No Prior Authorization There is no prior authorization for the vaccine administration or product.No Co-Payments  There are no co-payments for COVID-19 vaccine administration and products, including no copayments for a physician office visit at which the vaccine is administered.Eligible Providers  Florida Medicaid will reimburse the following providers for the administration of the COVID-19 vaccine, for any place of service:Physicians and physician extenders, including those functioning in a County Health     Department, Federally Qualified Health Center, or Rural Health Clinic.Pharmacies for COVID-19 vaccine administration rendered by pharmacists.Provider Requirements  The COVID-19 Vaccination Program Interim Playbook[  ] by the Centers for Disease Control and Prevention (CDC) requires providers who are administering COVID-19 vaccinations to enroll in the federal COVID-19 Vaccination Program:To receive/administer COVID-19 vaccine, constituent products, and ancillary supplies, vaccination provider facilities/organizations must enroll in the federal COVID-19 Vaccination Program coordinated through their jurisdiction’s immunization program. Enrolled COVID-19 vaccination providers must be credentialed/licensed in the jurisdiction where vaccination takes place, and sign and agree to the conditions in the CDC COVID-19 Vaccination Program Provider Agreement.Fee-for-Service Billing & Reimbursement (Effective for Dates of Service starting 3/15/21)The following reimbursement information is specific to recipients in the fee-for-service delivery system:Florida Medicaid providers administering COVID-19 vaccines to Florida Medicaid recipients are required to submit claims with the specific vaccine product Current Procedural Terminology (CPT), its corresponding National Drug Code (NDC) and the specific vaccine product administration CPT code in order to receive reimbursement for administration. The manufacturer specific products, NDC, and their dose-specific administration code(s) must be submitted for each COVID-19 vaccine dose administered on the claim form.   Billing CodeNDCCPT DescriptionLabeler NamePhysician RateExtender Rate9130059267100001SARSCOV2 VAC 30MCG/0.3ML IMPfizer$ -$ -59267100002592671000030001A ADM SARSCOV2 30MCG/0.3ML 1STPfizer$ 40.00$ 32.000002A ADM SARSCOV2 30MCG/0.3ML 2NDPfizer$ 40.00$ 32.009130180777027310SARSCOV2 VAC 100MCG/0.5ML IMModerna$ -$ -807770273990011A ADM SARSCOV2 100MCG/0.5ML 1STModerna$ 40.00$ 32.000012A ADM SARSCOV2 100MCG/0.5ML 2NDModerna$ 40.00$ 32.009130359676058005SARSCOV2 VAC AD26 .5ML IMJohnson & Johnson (Janssen)$ -$ -0031A ADM SARSCOV2 VAC AD26 .5MLJohnson & Johnson (Janssen)$ 40.00$ 32.00Florida Medicaid will not reimburse for the vaccine product, it is available at no cost through Operation Warp Speed.Federally Qualified Health Centers, Rural Health Clinics and County Health Departments will be reimbursed outside of the encounter rate and receive the applicable Physician and Physician Extender rates for COVID-19 vaccine administration.Pharmacy claims submitted for COVID-19 vaccine administration reimbursement must identify the administering pharmacist by Florida pharmacist license number (i.e., PSXXXXX), submitted as the prescriber ID in the National Council for Prescription Drug Programs Online database (NCPDP) field 411-DB.Pharmacist administered COVID-19 vaccines receive Physician Extender rates and require the following submission clarification codes (SCC) be entered in NCPDP field 420-DK:SCC = 2 (indicates administration of the initial dose)SCC = 6 (indicates final/single dose administration)Health Plan Billing & Reimbursement, and Open Network Requirement  Florida Medicaid health plans cover COVID-19 vaccine administration costs for their members. COVID-19 reimbursement rates are the same for health plans and the fee-for-service delivery system.Providers should contact the health plan directly for billing questions and instructions.Additional Information If you have fee-for-service coverage questions, please contact the Florida Medicaid Helpline at 1-877-254-1055.If you have health plan coverage questions, please contact the health plan directly.For more information related to Medicaid coverage during the state of emergency, please visit the Agency’s COVID web page.2020December 29, 2020Updated Florida Medicaid Coverage of the COVID-19 Vaccine (Health plan open network required)The Agency for Health Care Administration remains committed to ensuring Medicaid recipients receive medically necessary care to prevent and treat the 2019 novel coronavirus (COVID-19). The purpose of this alert is to detail Medicaid coverage of the new COVID-19 vaccines. All guidance is applicable to both the fee-for-service and Statewide Medicaid Managed Care delivery systems unless otherwise stated.Eligible Recipients and Exclusions Florida Medicaid covers the COVID-19 vaccine administration by age, as specified in the Food and Drug Administration Emergency Use Authorization approval for each vaccine product.Covered: All Medicaid recipients who have full Medicaid benefits are eligible for Medicaid to cover the administration of the COVID-19 vaccine.This includes individuals with Medically Needy/ Share of Cost Medicaid who have incurred their share of cost for the month and whose Medicaid is activated.Not Covered: If the recipient has any other primary insurance, the primary insurance must be billed as Medicaid is the payor of last resort.Florida Medicaid willnot reimburse the COVID-19 vaccine administration for recipients with:MedicareCommercial insuranceLimited Medicaid benefits (i.e., family planning waiver, emergency Medicaid for undocumented citizens).No Prior Authorization There is no prior authorization for the vaccine administration or product.No Co-Payments There are no co-payments for COVID-19 vaccine administration and products, including no co- payments for a physician office visit at which the vaccine is administered.Eligible Providers Florida Medicaid will reimburse the following providers for the administration of the COVID-19 vaccine, for any place of service:Physicians and physician extenders, including those functioning in a County Health Department, Federally Qualified Health Center, or Rural Health Clinic.Pharmacies for COVID-19 vaccine administration rendered by pharmacists.Provider Requirements The COVID-19 Vaccination Program Interim Playbook [  ]by the Centers for Disease Control and Prevention (CDC) requires providers who are administering COVID-19 vaccinations to enroll in the federal COVID-19 Vaccination Program:To receive/administer COVID-19 vaccine, constituent products, and ancillary supplies, vaccination provider facilities/organizations must enroll in the federal COVID-19 Vaccination Program coordinated through their jurisdiction’s immunization program. Enrolled COVID-19 vaccination providers must be credentialed/licensed in the jurisdiction where vaccination takes place, and sign and agree to the conditions in the CDC COVID-19 Vaccination Program Provider Agreement.Fee-for-Service Billing & Reimbursement The following reimbursement information is specific to recipients in the fee-for-service delivery system.Beginning December 11, 2020, Florida Medicaid will cover the vaccine administration costs as indicated in the Eligible Recipients and Exclusions section above.Providers must bill only the vaccine administration code. Florida Medicaid will not reimburse for the vaccine product at this time, since it is currently available at no cost through Operation Warp Speed.Federally Qualified Health Centers, Rural Health Clinics and County Health Departments will be reimbursed outside of the encounter rate and receive the applicable Physician and Physician Extender rates for COVID-19 vaccine administration.PHARMACY PROVIDERS:COVID-19 VACCINE ADMINISTRATION CODESNDCBrand NameGeneric Sequence Number (GSN) NameAgeDose 1 Admin. RateDose 2 Admin. Rate59267100001Pfizer COVID19 VaccineCOVID-19 VACC, MRNA(PFIZER)/PF (0.3ml/dose)16 yrs. and older$13.55$22.7159267100002Pfizer COVID19 VaccineCOVID-19 VACC, MRNA(PFIZER)/PF (0.3ml/dose)16 yrs. and older$13.55$22.7159267100003Pfizer COVID19 VaccineCOVID-19 VACC, MRNA(PFIZER)/PF (0.3ml/dose)16 yrs. and older$13.55$22.7180777027310Moderna COVID19 VaccineCOVID-19 VACC, MRNA(MODERNA)/PF (0.5ml/dose)18 yrs. and older$13.55$22.7180777027399Moderna COVID19 VaccineCOVID-19 VACC, MRNA(MODERNA)/PF (0.5ml/dose)18 yrs. and older$13.55$22.71Administering pharmacists must be identified in the prescriber field using their Florida pharmacist license number (i.e., PSXXXXX).The following submission clarification codes (SCC) must be entered in the NCPDP field 420-DK:Submit a SCC code = 2 to indicate the  first dose  administered.Submission Clarification Code = 6 to indicate the  final dose  administered.PHYSICIANS AND PHYSICIAN EXTENDERS:COVID-19 VACCINE ADMINISTRATION CODES AND RATESProcedure CodeProcedure Code DescriptionAgePhysician Reimbursement RatePhysician Extender Reimbursement Rate0001APfizer-Biontech COVID-19 Vaccine Administration – First Dose16 yrs. and older$16.94$13.550002APfizer-Biontech COVID-19 Vaccine Administration – Second Dose16 yrs. and older$28.39$22.710011AModerna COVID-19 Vaccine Administration – First Dose18 yrs. and older$16.94$13.550012AModerna COVID-19 Vaccine Administration – Second Dose18 yrs. and older$28.39$22.71Health Plan Billing, Reimbursement, and Open Network Requirement Effective December 11, 2020, Florida Medicaid health plans will cover the vaccine administration costs for their members. The health plans’ reimbursement for the COVID-19 vaccines will be the same as the fee-for-service delivery system reimbursement rates shown above. The health plans’ systems will be available for billing no later than January 18, 2021.The Agency is requiring that the Medicaid health plans reimburse for vaccine administration by any Medicaid-enrolled provider that meets the provider requirements above, regardless of whether the providers are contracted to participate in the plan’s network (i.e., “open network”).Providers must contact the health plans directly for billing questions and instructions.Additional Information If you have fee-for-service coverage questions, please contact the Florida Medicaid Helpline at 1-877-254-1055.If you have health plan coverage questions, please contact the health plan directly.For more information related to Medicaid coverage during the state of emergency, please visit the Agency's COVID web page.December 14, 2020Florida Medicaid Expands Coverage of Vaccines for Children by Pharmacy ProvidersThe Agency for Health Care Administration (Agency) remains committed to ensuring Florida Medicaid recipients receive medically necessary care during the 2019 novel coronavirus (COVID- 19) state of emergency, including preventive services to reduce and slow the spread of the disease.The purpose of this alert is to provide guidance on Florida Medicaid’s expanded access to childhood vaccines to avoid preventable diseases in children and additional strains on the healthcare system.This guidance is in line with the U.S. Department of Health and Human Services third amendment to the Declaration under the Public Readiness and Emergency Preparedness Act (PREP Act) This policy guidance applies to services rendered through both the fee-for-service delivery system and the Statewide Medicaid Managed Care program.Expansion of Vaccines for Children by Pharmacy Providers Retroactive to August 24, 2020, Florida Medicaid will reimburse pharmacy providers to order and administer vaccines for eligible children ages 3 through 18. This expansion of vaccine services to children by pharmacy providers does not expand covered services nor expand eligibility to receive services.General Requirements Florida Medicaid pharmacy providers may order and administer vaccines subject to specific vaccine product, training, certification, and reporting requirements, as well as any State or local scope-of practice and legal requirements. For scope-of-practice and training questions, pharmacy providers must contact the Florida Department of Health Board of Pharmacy.All pharmacy providers rendering vaccine services to eligible Florida Medicaid children must comply with these Florida Medicaid requirements:The vaccine must be approved or licensed by the Food and Drug Administration.The vaccination must be ordered and administered according to the Centers for Disease Control and Prevention’s Advisory Committee on Immunization Practices immunization schedules.All providers must comply with all Florida Medicaid rules, including record keeping and documentation requirements.The provider must inform the patient’s primary care provider of the vaccine services rendered.The provider must inform patients and the adult caregivers accompanying the children of the importance of a well-child visit with a pediatrician or other licensed primary care provider and refer patients as appropriate.Vaccine for Children Program Requirements The below billing and reimbursement details are applicable to the Fee-For-Service delivery system:Florida Medicaid will reimburse the enrolled pharmacy $8 for administration of vaccines at point-of-sale when provided by a pharmacy provider for children 3 through 18 years of age. Florida Medicaid will not reimburse for vaccine products as they are covered through the VFC program.For enrollees 19 through 20 years of age, billing and reimbursement will continue as established on the fee-for-service Prescribed Drugs Immunization Fee Schedule for the vaccine product and administration.Administering pharmacists must be identified in the prescriber field using their Florida pharmacist license number.Florida Medicaid will not reimburse pharmacy providers a dispensing fee for vaccinations.Enrollees are not required to present to the pharmacy provider with a prescription.Providers may not charge a recipient for covered services nor a copayment.MediKids recipients are excluded from the VFC program. Medicaid reimburses for both the vaccine product and the administration fee for MediKids recipients.Statewide Medicaid Managed Care Health Plan Billing & Reimbursement Providers must contact the health plan     
+
+
+
+
+    directly
+
+
+    [
+                    
+                245.8 kB
+    ]
+
+ for billing and reimbursement of pharmacy ordered and administered vaccines for children.Additional Information If you have fee-for-service coverage questions, please contact the Florida Medicaid Helpline at 1-877-254-1055.If you have health plan coverage questions, please contact the health plan directly.For more information on the PREP Act, visit: [  ]https://www.hhs.gov/guidance/sites/default/files/hhs-guidance-documents/licensed-pharmacists-and-pharmacy-interns-regarding-covid-19-vaccines-immunity.pdf[  ]September 10, 2020Guidance for Quantity Prescribed (460-ET) in National Council for Prescription Drug Programs (NCPDP) Telecommunication Standard Version D.0The purpose of this alert is to inform Florida Medicaid pharmacy providers of a new requirement when billing schedule II drugs.The Centers for Medicare and Medicaid Services issued final rule, CMS-0055-F[  ], on January 24, 2020. The rule modifies the requirements for the use of the NCPDP Telecommunication Standard Implementation Guide, to require the use of the quantity prescribed (460-ET) field to identify retail pharmacy transactions of partial fills for schedule II drugs.  The effective date for compliance is September 21, 2020.FEE-FOR-SERVICE PHARMACY PROVIDERS:  Effective 9/21/2020, the quantity prescribed field (NCPDP field 460-ET) is required when the transmission is for a schedule II drugEffective 9/21/2020, schedule II drugs adjudicated  without  populating the quantity prescribed field (NCPDP field 460-ET) will reject for ET-M/I quantity prescribedHEALTH PLANS/PHARMACY NETWORK PROCESSORS/ENCOUNTERS: Effective 9/21/2020, the quantity prescribed field (NCPDP field 460-ET) is required on encounters when the transmission is for a schedule II drugEffective 9/21/2020, schedule II drug encounters submitted with or  without  populating the quantity prescribed field (NCPDP field 460-ET) will pay and post the following transaction message: “  Quantity prescribed field required on schedule II drugs” At a later date, to be determined by the Agency, schedule II drug encounters submitted  without  populating the quantity prescribed field (NCPDP field 460-ET) will reject for ET-M/I quantity prescribed.For further information:Refer to the official CMS Information Bulletin located at https://www.cms.gov/files/document/d0-final-rule-information-bulletin.pdf[  ]  or the Final Rule located at https://www.govinfo.gov/content/pkg/FR-2020-01-24/pdf/2020-00551.pdf[  ]Consult the Florida D.0 Payer Specifications-Encounters and Fee-For-Service at: http://portal.flmmis.com/FLPublic/Provider_ManagedCare/Provider_ManagedCare_Encounter/Provider_ManagedCare_Pharmacy/tabId/82/Default.aspx  and http://ahca.myflorida.com/Medicaid/Prescribed_Drug/information.shtmlPharmacy providers may call the Florida Medicaid Support Call Center at 1-800-603-1714 for any questions or concerns.April 17, 2020Ranitidine Off Market PDL UpdateThe purpose of this alert is to inform prescribers of the drug products now available on the preferred drug list since the withdrawal of ranitidine.On April 1, 2020 the Food and Drug Administration (FDA) requested that manufacturers withdraw all prescription and over-the-counter (OTC) ranitidine drugs from the market immediately.As a result of this immediate withdrawal request, ranitidine products will not be available for new or existing prescriptions or OTC use in the United States.  Therefore, the famotidine products (tablet, oral suspension, vial, piggyback) are available for use in the histamine H2-receptor inhibitors class.The Florida Medicaid Preferred Drug List has been updated to reflect these changes.February 17, 2020Our nation is currently facing an unprecedented opioid epidemic. On May 3, 2017, the State of Florida declared a public health state of emergency in response to the opioid epidemic.  The Agency for Health Care Administration has made ongoing efforts to increase access to opiate addiction treatment and implement limitations on opiate prescribing based on the Center for Disease Control and Prevention guidelines.  One subset of the population facing the opioid epidemic is pregnant women.Florida Medicaid has implemented the following edits to ensure (MAT) in pregnancy is accessible. Automatic approval that allows MAT therapy if a Florida Medicaid recipient has a diagnosis of opioid use disorder and pregnancy in the Florida Medicaid database.Pharmacy level override if the diagnosis of opioid use disorder and pregnancy is provided on the prescription.Call center capability of entering approval override via phone request.February 12, 2020Effective March 2, 2020, pharmacies must submit fee-for-service claims that contain the National Provider Identifier (NPI) for a prescriber when an active NPI is known to Florida Medicaid.  Active NPI means the prescriber is currently enrolled with Florida Medicaid.  The Florida Department of Health (DOH) license number will no longer be accepted for prescribers with an active NPI. Pharmacies should continue to submit claims that contain the Florida DOH license number for prescribers not currently enrolled with Florida Medicaid, until otherwise notified by the Agency for Health Care Administration (Agency).Pharmacies can expect to receive National Council for Prescription Drug Programs (NCPDP) error code 25 - Missing/Invalid Prescriber ID at the Point of Sale (POS) when a fee-for-service claim is submitted that contains the Florida DOH license number for a prescriber with an active NPI.  The following supplemental message will post with NCPDP error code 25: Submit prescriber NPI.Prescriber NPI may be obtained by any of the following methods:Look up the prescriber’s NPI on the National Plan and Provider Enumeration System (NPPES) NPPES Registry .Contact the prescriber’s office.Use the Agency’s NPI to Medicaid ID search engine available on the Secure Web Portal .Call the Agency’s Pharmacy Benefit Manager, Magellan Medicaid Administration, at 1-877-553-7481.Pharmacies that cannot timely verify prescriber NPI at the POS may submit Submission Clarification Code (SCC) 42 to temporarily override the error. Pharmacies that submit SCC 42 will override the NCPDP error code 25 and allow the claim to process with the prescriber’s Florida DOH license number.  SCC 42 will not override additional errors that may post on the claim for reasons other than prescriber ID. The Agency will notify pharmacies when SCC 42 is no longer available to override NCPDP error code 25 at the POS. For additional information related to prescribed drug services, providers may refer to thePharmacy Informationpage of the Secure Web Portal.2018November 21, 2018SMMC Transition Pharmacy Point of Sale MessagingEffective December 1, 2018, Florida Medicaid Managed Care enrollees will begin transitioning, by region, into the 2018-2023 Statewide Medicaid Managed Care Program health plans.  The Statewide Medicaid Managed Care Health and Dental Plan Roll-out Schedule may be viewed at http://ahca.myflorida.com/medicaid/statewide_mc/index.shtml. To ensure a smooth transition of enrollees from the fee-for service delivery system or a health plan to another health plan, the Agency fiscal agent pharmacy system will support point of sale messaging to all pharmacies attempting to process claims during this transition period.  Pharmacies will follow the process outlined below to receive reimbursement for services:The pharmacy bills a claim to the current health plan pharmacy benefits manager (PBM);The pharmacy receives a denied claim;The pharmacy may ask the enrollee to provide their new membership card to obtain the health plan billing information (see example below) OR:
+
+
+
+The pharmacy may bill a claim to Medicaid fee-for-service:BIN (Bank Information Number): 013352PCN (Processor Control Number): P035013352Group ID: FLMEDICAIDThe pharmacy will receive a NCPDP Rejection Error of “M1: Patient not covered in this aid category” with a supplemental message directing the pharmacy to view the COB segment for guidance on how to process the claim to the enrollee’s new health plan. The COB segment will contain the new health plans billing information.The pharmacy will bill the new health plan using the information provided in the messaging:BINPCNGroup ID (as applicable)Customer service phone number (the pharmacy may use this number to contact the new health plans PBM)To ensure no disruption in current services health plans will allow enrollees to continue to receive their prescriptions through their current provider, for up to 60 days after managed medical assistance starts in each region, until their prescriptions can be transferred to a provider in the plan’s network. Pharmacy providers may call the Florida Medicaid Support Call Center at 1-800-603-1714 for any questions or concerns. October 22, 2018Electronic Prior Authorization for Drugs Billed Through the Fee-For-Service Delivery System Pharmacy BenefitThe following information is for prescribers in the fee-for-service delivery system.Effective October 23, 2018, the Agency for Health Care Administration and its pharmacy benefit manager, Magellan Medicaid Administration, will implement an optional electronic prior authorization (ePA) for drugs that require prior authorization in the fee-for-service delivery system.  ePA is HIPAA compliant with its set of policies and procedures along with technical, physical, and administrative safeguards to maintain compliance with the HIPAA Privacy Rule and implementing regulations. ePA applies the NCPDP SCRIPT standards to all transactions.There are many benefits resulting from the implementation of an ePA functionality.The benefits to theprescriberinclude:Less time spent reacting to request for prior authorizations;Near real-time submission;Less administrative overhead than paper submissions or phone calls;Less impact on staff time and workflow; andImproved patient care by minimizing delay obtaining medications.The benefits topharmacy providersinclude:Less impact on pharmacy staff;Less administrative overhead than fax or phone calls; andImproved customer service by removing medication(s) delays.The benefits to therecipientinclude:Improved patient care by minimizing delays in obtaining medications by dramatically shortening the prior authorization cycle time; andLess anxiety and confusion around obtaining status updates of prior authorizations.All providers who choose to utilize the ePA option must register on the CoverMyMeds® (CMM) portal or use an electronic health record that CMM has integrated with.  Registration is free of charge. The National Provider Identifier Registry, as well as CMM’s database of pharmacy confirmed fax numbers, is used to generate a code that is faxed to the provider’s office.  The code will be used to complete the online process.  If the fax number is not available, CMM will contact the provider telephonically.Register at the following link:https://account.covermymeds.com/For assistance, fee-for-service providers may call the Florida Medicaid Pharmacy Support Call Center at 1-800-603-1714.August 28, 2018Reprocessing of Fee-For-Service Pharmacy Claims Schedule as Required by the Centers for Medicare and Medicaid Services Approved State Plan AmendmentThe Centers for Medicare and Medicaid Services final rule (CMS-2345-FC) pertaining to Medicaid reimbursement for covered outpatient drugs in the fee-for-service (FFS) delivery system required states to submit a State Plan Amendment (SPA) with an effective date of no later than April 1, 2017.  The SPA relates to the reimbursement methodology and a new pharmacy professional dispensing fee.  Florida Medicaid began reimbursing pharmacy providers using the new methodology on June 15, 2018.As stated in the May 15, 2018 provider alert, “Announcement of New Pharmacy Reimbursement Methodology Implementation”, in order to comply with the approved SPA, Florida Medicaid’s Pharmacy Benefits Manager, Magellan Medicaid Administration, will begin reversing and resubmitting FFS pharmacy claims with adjudication dates between April 1, 2017 and June 14, 2018.The reprocessing of claims will begin September 14, 2018.  The estimated total of weeks to complete this task is 12.No action from pharmacy providers is required.  Reversals and resubmissions will be reflected on the providers’ remittance advices once each batch is completed.The provider alert from May 15, 2018 can be found in this link: http://ahca.myflorida.com/medicaid/Prescribed_Drug/banners.shtmlThe reimbursement methodology Rule 59G-4.251, Florida Administrative Code, can be found in this link: https://www.flrules.org/gateway/ruleNo.asp?id=59G-4.251.August 22, 2018340B Provider Alert - CALL CENTER PHONE NUMBER CORRECTIONFlorida Medicaid Pharmacy Providers Billing of 340B Purchased DrugsFEE-FOR-SERVICE PHARMACY SUPPORT CALL CENTER PHONE NUMBER CORRECTIONPlease note the phone number for the Florida Medicaid Pharmacy Support Call Center correction below.*Florida Medicaid pharmacy providers who dispense drugs purchased under the 340B program are reminded to do the following:FEE-FOR-SERVICE (FFS) PROVIDERSSubmit a value of  “20”  in the Submission Clarification Code field (NCPDP field #420-DK)Submit a value of  “08”  or  “05”  in the Basis of Cost Determination field (NCPDP field #423-DN)Submit the actual acquisition cost of the product in the Ingredient Cost Submitted field (NCPDP field #409-D9)For assistance, FFS providers may call the Florida Medicaid Pharmacy Support Call Center at 1-800-603-1714.* HEALTH PLANS / PHARMACY NETWORK PROVIDERS / ENCOUNTER CLAIMSSubmit a value of  “20”  in the Submission Clarification Code field (NCPDP Field #420-DK)This Submission Clarification Code is in addition to the mandatory value of “9” currently required on pharmacy encounter claims.Health plans’ pharmacy network providers, may contact the plans directly for assistance.For additional information:Consult the D.0 Payer Specifications or Encounter D.0 Payer Specifications on the FL Medicaid Web PortalPlease refer to the Health Resources and Services Administration (HRSA) website http://www.hrsa.gov/opa/July 30, 2018New Limits on Controlled Substance Prescriptions Written for the Treatment of Acute PainIn a continued effort to combat the nationwide opioid epidemic, Governor Rick Scott signed into law House Bill (HB) 21 in order to limit the supply for prescriptions written for the treatment of acute pain for opioids listed as Schedule II controlled substance as well as controlled substances listed in Schedule III.  Pain related to cancer, terminal illness, palliative care, and serious traumatic injury are excluded from these prescribing limits.Effective September 1, 2018, to comply with HB 21 and to further our work in preventing substance use disorder, Florida Medicaid will implement the following system modifications to the fee-for-service delivery system prescribed drugs benefit:Prescriptions for opioids listed as Schedule II (for the treatment of acute pain) will be limited to a maximum of a 3-day supply.Prescriptions for opioids listed as Schedule II, where prescribers indicate  “Acute Pain Exemption,”  will be limited to a 7-day supply.Prescriptions for controlled substances listed in Schedule III (for the treatment of acute pain) will be limited to a maximum of 14-day supply.Pharmacists receiving prescriptions indicating the acute pain exemption will be able to override the 3-day supply limit by entering a certification code of 5 in the Prior Authorization Type Code Field (NCPDP Field #461-EU).Florida Medicaid will apply this same limit to controlled substances used in the treatment of acute pain listed in Schedules IV and V.Medicaid health plans are also required to comply with the requirements of HB 21. For additional information, please contact the plan directly.Link to HB 21: https://flsenate.gov/Session/Bill/2018/21/BillText/er/PDFJune 22, 2018Coverage of Anticonvulsant MedicationsThe purpose of this provider alert is to clarify Florida Medicaid’s coverage requirements for anticonvulsant medications. Florida Medicaid reimburses for generic, brand name, and non-preferred brand name anticonvulsant medications as follows:All generic formulationsBrand name medications that do not have a generic formulation when a diagnosis related to epilepsy is documented.Non-preferred brand name medications when the generic formulation has not met the recipient’s clinical needs.For more detailed information about the specific anticonvulsant medications that are listed on the Florida Medicaid Preferred Drug List (PDL), please visit:     
+
+
+
+
+    http://ahca.myflorida.com/medicaid/Prescribed_Drug/pharm_thera/pdf/PDL.pdf
+
+
+    [
+                    
+                2.5 MB
+    ]
+
+.  (Pages 86-94 lists the anticonvulsant medications.)Medicaid health plans must cover non-preferred brand name medications when medically necessary. The provision of services to recipients enrolled in a Medicaid health plan must not be subject to more stringent service coverage limits than specified in Florida Medicaid policies. For additional information, please contact the health plan directly.May 15, 2018Announcement of New Pharmacy Reimbursement Methodology ImplementationThe Centers for Medicare and Medicaid Services final rule (CMS-2345-FC) pertaining to Medicaid reimbursement for covered outpatient drugs in the fee-for-service delivery system required states to submit a State Plan Amendment (SPA) with an effective date of no later than April 1, 2017.  The SPA relates to the reimbursement methodology and a new pharmacy professional dispensing fee.Once the SPA was approved, a new reimbursement methodology was promulgated into rule to meet this federal requirement.  Rule 59G-4.251, Florida Administrative Code can be found in this link:  https://www.flrules.org/gateway/ruleno.asp?id=59G-4.251.Florida Medicaid will begin reimbursing pharmacy providers using the new methodology on June 15, 2018. A subsequent provider alert will outline the plan for scheduling the reprocessing of pharmacy claims retroactive to April 1, 2017 in order to comply with the approved SPA.April 19, 2018Florida Medicaid Pharmacy Providers Billing of 340B Purchased DrugsFlorida Medicaid pharmacy providers who dispense drugs purchased under the 340B program are reminded to do the following:FEE-FOR-SERVICE (FFS) PROVIDERSSubmit a value of  “20”  in the Submission Clarification Code field (NCPDP field #420-DK)Submit a value of  “08”  or  “05”  in the Basis of Cost Determination field (NCPDP field #423-DN)Submit the actual acquisition cost of the product in the Ingredient Cost Submitted field (NCPDP field #409-D9)For assistance, FFS providers may call the Florida Medicaid Pharmacy Technical Help Support Line at 1-877-603-1714.HEALTH PLANS / PHARMACY NETWORK PROVIDERS / ENCOUNTER CLAIMSSubmit a value of  “20”  in the Submission Clarification Code field (NCPDP Field #420-DK)This Submission Clarification Code is in addition to the mandatory value of “9” currently required on pharmacy encounter claims.Health plans’ pharmacy network providers, may contact the plans directly for assistance.For additional information:Consult the D.0 Payer Specifications or Encounter D.0 Payer Specifications on the FL Medicaid Web PortalPlease refer to the Health Resources and Services Administration (HRSA) website https://www.hrsa.gov/opa/April 19, 2018Codeine and Hydrocodone Cough & Cold Containing ProductsThe U.S. Food and Drug Administration (FDA) is requiring labeling changes for codeine and hydrocodone containing prescription cough and cold medicines to limit their use to recipients 18 years of age and older due to their risks outweighing their benefits in recipients younger than18 years of age. Additionally, the FDA is also requiring safety information about the risks of misuse, abuse, addiction, overdose, death, and slowed or difficult breathing be added to the boxed warning of these products.Florida Medicaid, in response to the FDA safety guideline recommendations, will adopt the minimum age limitation of 18 years of age on codeine and hydrocodone containing prescription cough and cold medicines, effective May 14, 2018. The list of FDA recommended products are included as a reference below.List of Prescription Cough and Cold Medicines Containing Codeine:codeine, chlorpheniraminecodeine, phenylephrine, promethazinecodeine, promethazinecodeine, pseudoephedrine, tripodineList of Prescription Cough and Cold Medicines Containing Hydrocodone:hydrocodone, guaifenesinhydrocodone, pseudoephedrine, guaifenesinhydrocodone, chlorpheniraminehydrocodone, chlorpheniramine, pseudoephedrinehydrocodone, homatropineSource: U.S. Food & Drug AdministrationFebruary 13, 2018Substance Use Disorder Treatment Options and PreventionGovernor Rick Scott has declared the opioid epidemic a state of emergency in Florida (see Executive Order 17-146). In response to the opioid crisis, the Agency for Health Care Administration (Agency) is implementing provisions under the Florida Medicaid program to assist in the prevention and treatment of substance use disorders.Medication-assisted treatment combines behavioral health therapy and medications to treat substance use disorders. Florida Medicaid covers an array of behavioral health therapies and prescribed drugs (e.g., Naltrexone, Buprenorphine, Methadone, etc.) to treat substance use disorders and does not limit the length of time recipients may receive treatment.Medication-Assisted Treatment: The Agency has eliminated all prior authorization requirements for the following medication-assisted treatment options under Florida Medicaid:Effective February 5, 2018, Florida Medicaid will reimburse for a 7-day supply of Suboxone (buprenorphine/naloxone) film or buprenorphine tablets (for pregnant or nursing mothers) without prior authorization. This will allow induction therapy to start immediately. Providers will be required to request prior authorization for continued therapy after the initial 7-day induction period. All prior authorization forms and criteria for prescribed drugs may be found here: http://ahca.myflorida.com/medicaid/Prescribed_Drug/preferred_drug.shtmlNaltrexone tabletsVivitrol (naltrexone) injectable – for recipients ages 18 years of age and older diagnosed with alcohol and/or opioid dependence.Additional Changes Related to Prescribed Drugs: Florida Medicaid has or will implement the following additional changes to prescribed drugs benefit:Systems modifications:Created a prior authorization form consistent with the guidelines and recommendations from the Centers for Disease Control and Prevention.Effective February 26, 2018, prescriptions for short acting narcotics, for the treatment of acute pain, will be limited to a maximum of 7-day supply. Prescribers may request an increase in the 7-day supply through the prior authorization process when medically necessary.Effective March 26, 2018, prescriptions for opioids for patients who are new to opioid treatment will be limited to a maximum dose equivalent to 90 milligrams of morphine per day.Prevent Florida Medicaid reimbursement for two or more long acting opioids prescribed simultaneously.Alert pharmacists when an opioid and a benzodiazepine are prescribed in combination (this applies in the fee-for-service delivery system)Require prescribers order a short acting opioid prior to consideration of a prescription for a long acting opioidFor recipients enrolled in a Medicaid health plan, services are reimbursed by the plan in accordance with their established agreements/contracts with network providers. In no instance may the health plan impose limitations or exclusions more stringent than those specified in Florida Medicaid coverage policies. In any instance when compliance with provisions in the Florida Medicaid promulgated rules in Chapter 59G, F.A.C. conflicts with the terms of the health plan contract, the contract prevails. For additional information, please contact the plan directly.February 1, 2018Influenza Antiviral TreatmentFlorida Medicaid covers brand name Tamiflu capsules for all ages and Tamiflu suspension for recipients 12 years of age and under.  Due to the increased influenza activity levels across the state and to allow greater access to antiviral treatment for eligible Florida Medicaid recipients who are experiencing onset of illness from the influenza virus, Florida Medicaid has added coverage of the generic formulation of Tamiflu which is Oseltamivir. Oseltamivir capsules for all ages and Oseltamivir suspension for recipients ages 12 and under, will now be covered through May 1, 2018.The Centers for Disease Control and Prevention recommends antiviral treatment be administered as early as possible after influenza illness onset. Ideally, treatment should be initiated within 48 hours of symptom onset. However, antiviral treatment initiated later than 48 hours after illness onset can still be beneficial for some patients.For recipients enrolled in a Medicaid health plan, prescribed drug services are reimbursed by the plan in accordance with their established agreements/contracts with network providers. In no instance may the health plan impose limitations or exclusions more stringent than those specified in Florida Medicaid Coverage Policies. For additional information, please contact the plan directly.2017May 17, 2017New Requirement for Billing Immunizations CodesEffective October 1, 2017, Florida Medicaid providers who administer vaccines to Florida Medicaid recipients ages 0 through 20 years, will be required to submit both, the vaccine product Current Procedural Terminology (CPT) code as well as the vaccine administration CPT code on the claim in order to receive reimbursement from Florida Medicaid through the fee-for-service delivery system.  If more than one vaccine is administered during the same visit, each vaccine code and an administration code for each vaccine must be submitted on the claim form.Florida Medicaid providers who receive vaccine products through the Vaccine For Children program for recipients ages 0 through 18 years are eligible to receive reimbursement for the administration of the vaccine from Florida Medicaid.  The vaccine product code will be reimbursed at $0.00, and the vaccine administration code will be reimbursed in accordance with Rule 59G-4.002, Florida Administrative Code (F.A.C.).Florida Medicaid providers who administer vaccines to recipients ages 19 and 20 years, must also include both CPT codes on the claim.  Florida Medicaid providers will receive reimbursement for the vaccine product plus the administration fee for each vaccine in accordance with Rule 59G-4.002, F.A.C.The following vaccine administration CPT codes (for ages 0 through 20 years) have been added to the 2017 Immunization Fee Schedule for billing purposes in the Florida Medicaid Management Information System:90460 - Immunization administration through 18 years of age via any route of administration with counseling by physician or other qualified health care professional first or only component of each vaccine or toxoid administered.90471 - Immunization administration (includes percutaneous, intradermal, subcutaneous or intramuscular injections) one vaccine single or combination vaccine/toxoid.90472 - Each additional vaccine (single or combination vaccine/toxoid).  List separately in addition to code for primary procedure.90473 - Immunization administration by intranasal or oral route one vaccine single or combination vaccine/toxoid.90474 - Each additional vaccine single or combination vaccine/toxoid.  List separately in addition to code for primary procedure.For recipients enrolled in a health plan, Medicaid services are billed directly to the health plan using their established policies.  For additional information, please contact the plan directly.2016September 23, 2016Proton Pump Inhibitors Prolonged UseIn 2011, the Food and Drug Administration (FDA) stated that available data showed that patients at highest risk for fractures were those who received high doses of prescription proton pump inhibitors (PPIs) or used a PPI for one year or longer.  The FDA also communicated through a drug safety bulletin that patients treated with PPIs for longer than five months were at higher risk of infections and that long-term use of PPIs could be associated with lower magnesium levels.  The Agency for Health Care Administration (Agency) published a Medicaid health care alert on April 1, 2011 with this information, along with revised coverage guidelines based upon the FDA recommendations.The purpose of this alert is to notify prescribers and pharmacies of an exception to the daily dosing limits of PPIs that has been recommended by the Agency’s Drug Utilization Review (DUR) Board.  The DUR Board recommended that patients with a history of Barrett’s esophagus, bariatric surgery, gastric or esophageal malignancy, or hypersecretory condition (such as Zollinger/Ellison), be automatically approved for chronic therapy (longer than six months).  An automatic prior authorization is in place to override the 6-month limit for patients who meet the above criteria.  Providers prescribing PPIs in excess of the limits, and for other diagnoses specified above, will be required to submit a prior authorization request to the Agency’s pharmacy benefits manager if the recipient is receiving services through the fee-for-service delivery system.  Please refer to the clinical criteria posted on the Agency’s website: http://ahca.myflorida.com/Medicaid/Prescribed_Drug/drug_criteria.shtml.For recipients enrolled in a health plan, prescribers should contact the health plan directly for prior authorization requirements for PPIs.July 8, 2016New Oral Metoclopramide Safe Dosing LimitationsMetoclopramide carries a black box warning regarding the risk of tardive dyskinesia, which may be irreversible. The risk of developing tardive dyskinesia increases with duration of treatment and total cumulative dose. Treatment with metoclopramide for longer than 12 weeks should be avoided in all but rare cases where therapeutic benefit is thought to outweigh the risk of developing tardive dyskinesia.Beginning October 2016, the Agency for Health Care Administration (Agency) will be implementing the following limitations for oral metoclopramide:A maximum limit of 40 mg per day for recipients under the age of 18 yearsA maximum limit of 60 mg per day for recipients ages 18 and olderA maximum of 12 continuous weeks of therapy for recipients of all agesProviders prescribing oral metoclopramide in excess of the limits specified above will be required to submit a prior authorization request to Magellan Medicaid Administration, Inc. if the recipient is receiving services through the fee-for-service delivery system. For recipients enrolled in a health plan, prescribers should contact the health plan directly for prior authorization requirements for this drug.2015December 4, 2015Codeine Restrictions for Recipients Under the Age of Six YearsDuring the June 27, 2015, Drug Utilization Review (DUR) Board meeting, the DUR members recommended that the Agency for Health Care Administration (Agency) consider updating the coverage of codeine-containing products for children under the age of 6 years by following the Food and Drug Administration (FDA) recommendations.  The Agency accepted the DUR Board’s recommendation.  In February 2013, the FDA added a contraindication and boxed warning[  ] regarding the risk of codeine-containing products for pediatric post-operative pain management following tonsillectomy and/or adenoidectomy. In addition, both the American Academy of Pediatrics and the American College of Chest Physicians recommend against the use of codeine to treat cough in pediatric patients. The FDA is also investigating the possible risks of codeine-containing cough and cold preparations in children under the age of18 years. (https://www.fda.gov/Drugs/DrugSafety/ucm453125.htm)  To address these safety concerns, products containing codeine will now be restricted for Florida Medicaid recipients who are under the age of six years.Alternative treatments for post-operative pain management include Acetaminophen liquid 160mg/5ml and Ibuprofen 100mg/5ml. September 24, 2015Pharmaceutical & Therapeutics Board Committee Meeting PostponementThe Agency for Health Care Administration (Agency) has postponed the Pharmaceutical & Therapeutics Committee meeting scheduled for Friday, September 25, 2015 in Tampa, Florida. The Agency will post information when the meeting has been rescheduled. Thank you and we apologize for any inconvenience.July 24, 2015Epinephrine Auto-Injectors Preferred Drug Status ChangeThe Pharmaceutical and Therapeutics (P&T) Committee recommended at the June 26, 2015 meeting, to add Auvi-Q® 0.3mg and 0.15mg (epinephrine auto-injectors) to the Florida Medicaid Preferred Drug List (PDL) and to remove EpiPen® 0.3 mg 2-Pak and EpiPen® Jr. 0.15mg 2-Pak auto-injectors from the PDL. The Agency for Health Care Administration has accepted the P&T Committee’s recommendation. However, in order to facilitate this transition for prescribers, pharmacies, and patients, the Agency will continue to reimburse for EpiPen® and EpiPen Jr. ® without the need for prior authorization through September 22, 2015. Here are available resources which may assist individuals in becoming more familiar with the Auvi-Q® auto injector delivery system:A physician fact sheet is available at: https://www.auvi-q.com/hcp/resourcesA patient brochure is available at: https://www.auvi-q.com/pdf/Patient-Information.pdf[  ]Additional resources including a video demonstration of how to use the Auvi-Q self- injector device is available at: https://www.auvi-q.com/July 10, 2015J7302 for Liletta and Mirena Intra-Uterine Contraceptive DevicesLiletta, a new intra-uterine contraceptive device, is now covered by Florida Medicaid.  This device contains the same main ingredient as Mirena, (levonorgestrel).  Both products have been assigned the same HCPC code, J7302.  For that reason, a modifier will be used to distinguish Liletta from Mirena. When billing for Liletta, use J7302 and modifier SC.When billing for Mirena, continue to use J7302.June 30, 2015Coverage Change for Palivizumab (Synagis®)Effective July 1, 2015, the maximum number of palivizumab prophylaxis doses reimbursed for eligible recipients under the age of two will be five doses per respiratory syncytial virus (RSV) season.This change aligns with the current American Academy of Pediatrics (AAP) updated guidance for palivizumab prophylaxis for RSV infection and was approved by the Florida Medicaid Drug Utilization Review Board at the June 27, 2015 meeting.The remaining eligibility criteria for palivizumab prophylaxis of RSV will remain unchanged and may be viewed on the Agency for Health Care Administration’s website in the     
+
+
+
+
+    Synagis Criteria
+
+
+    [
+                    
+                446 kB
+    ]
+
+ .The current AAP guidelines may be viewed at https://pediatrics.aappublications.org.April 29, 2015**Update to Inhaled Corticosteroids Age Limits Alert**Beginning May 1, 2015, the Agency will adhere to the National Institutes of Health (NIH) minimum age limit guidelines on inhaled corticosteroids (ICS).  Please view the chart below for the age limits of these ICS:Brand NameGeneric NamePrescribing Information- Minimum Age (years)Advair Diskusfluticasone/salmeterol4Advair HFAfluticasone/salmeterol5Aerospanflunisolide5Alvescociclesonide5Asmanexmometasone4Asmanex HFAmometasone12Duleramometasone/formoterol12Flovent Diskusfluticasone4Flovent HFAfluticasone0Pulmicort Flexhalerbudesonide5Pulmicort Respulesbudesonide0Qvarbeclomethasone5Symbicortbudesonide/formoterol5Please refer to https://ahca.myflorida.com/medicaid/Prescribed_Drug/preferred_drug.shtml for a list of the preferred ICS.March 13, 2015Spacer Devices for InhalersEffective immediately, all spacers will be reimbursed only through the Durable Medical Equipment (DME) Service.  Pharmacies may bill Healthcare Common Procedure Coding System (HCPCS) code A4627 (“SPACER, BAG OR RESERVOIR, WITH OR WITHOUT MASK, FOR USE WITH METERED DOSE INHALER”) using their DME provider number.  Medicaid reimburses for one spacer a year for all ages.  For additional DME information, please call at 1-800-289-7799.March 2, 2015Principles of Long Acting Opioid UtilizationThe Drug Utilization Review Board recently examined the use of opioid medications in Florida Medicaid recipients. If the use of chronic opioid therapy is deemed appropriate, guidelines recommend starting with a low dose, short acting, as needed opioid and individualizing the dosing.  Overlapping use of more than one long acting opioid is a potentially inappropriate prescription practice that may be associated with adverse outcomes related to opioid usage.ReferencesLiu Y, Logan JE, Paulozzi LJ, et al. Potential Misuse and Inappropriate Prescription Practices Involving Opioid Analgesics Am J Manag Care 2013;19(8):648-658February 19, 2015Pharmacy System Retroactive PricingDrug manufacturers may increase their medications’ prices at any time throughout the year.  In some instances, the effective date of the price change is loaded retroactively in the Florida Medicaid pharmacy system, which means that pharmacy providers could be underpaid for a claim after the price change is updated in the system.  This is a reminder that pharmacies have one year from the date of service to reverse and rebill claims in order to receive the correct payment from Florida Medicaid.  Please note this only applies to pharmacy claims for recipients not enrolled in a managed care plan.2014November 20, 2014Skeletal Muscle RelaxantsSkeletal muscle relaxants are a heterogeneous group of medications. Based on their mechanism of action, FDA labeled indications and clinical practice; they can be divided into two main categories. Antispastics used to treat spasticity from upper motor neuron syndromes such as cerebral palsy and multiple sclerosis. Chronic therapy with these agents, including baclofen and tizanidine may be warranted in some patients with chronic spasticity.  The other category is antispasmodics which are indicated for muscle spasm associated with acute painful musculoskeletal conditions unrelated to the central nervous system.   The most commonly prescribed antispasmodic agents are carisoprodol, cyclobenzaprine, metaxolone, and methocarbamol.  These agents do not act on motor neurons or on the muscle itself.  Their mode of action is primarily in the brain and perhaps spinal reflexes to relax skeletal muscles by unknown mechanisms.  Therapy with these agents should be utilized only for short periods (treatment beyond 2-3 weeks is not recommended) because adequate evidence of effectiveness for prolonged use has not been established. All skeletal muscle relaxants are associated with adverse effects including dizziness and drowsiness.   In comparison trials, no single agent has been proven to be superior to another.Below is a table indicating the typical starting dosages as well as the FDA approved maximum dosage.Skeletal Muscle RelaxantsMedicationTypical Starting DoseFDA Maximum DoseBaclofen5 mg three times daily80 mgParafon Forte(chlorzoxazone)500 mg four times daily3,000 mgFlexeril (cyclobenzaprine)5 mg three times daily30 mgAmrix (cyclobenzaprine ER)15 mg once daily30 mgSkelaxin (metaxalone)800 mg 3-4 times daily3,200 mgRobaxin (methocarbamol)1,500 mg four times daily8,000 mgZanaflex* (tizanidine)4 mg three times daily36 mgReferences:Chou R, Peterson K, Helfand M, et al. Comparative efficacy and safety of skeletal muscle relaxants for spasticity and musculoskeletal conditions:  a systematic review. J Pain Symptom Management. 2004 Aug:28(2):140-75.Clinical Pharmacology . Tampa, FL: Gold Standard, Inc; 2012. Available at: https://www.clinicalkey.com/. Accessed August 28, 2014.Toth PP, Urtis J. Commonly used muscle relaxant therapies for acute low back pain: a review of carisoprodol, cyclobenzaprine hydrochloride, and metaxalone. Clin Ther. 2004; 26:1355-67.Beebe FA, Barkin RL, Barkin S.  A clinical and pharmacologic review of skeletal muscle relaxants for musculoskeletal conditions.  Am J Ther. 2005;12:151-71.Chou R, Qaseem A, Snow V, et al, for the Clinical Efficacy Assessment Subcommittee of the American College of  Physicians and the American College of Physicians/American Pain Society Low Back Pain Guidelines Panel.  Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society.  Ann Intern Med. 2007;147:478-91.van Tulder MW, Touray T, Furlan AD, et al. Muscle relaxants for non-specific low-back pain. Cochrane Database Syst Rev.2003, Issue 4. Art. No.: CD004252. DOI: 10.1002/14651858.CD004252.See S, Ginzburg R. Skeletal muscle relaxants.  Pharmacotherapy. 2008;28(2):207-13.November 20, 2014Statin Therapy in Diabetics - A look at recent guidelinesAccording to the 2013 ACC/AHA guideline on the treatment of blood cholesterol to reduce atherosclerotic cardiovascular risk in adults, a high level of evidence supports the use of moderate-intensity statin therapy in persons with diabetes 40 to 75 years of age. Furthermore, statin therapy should also be initiated in diabetic patients without CVD who are over the age of 40 years and have one or more other CVD risk factors including family history of CVD, hypertension, smoking, dyslipidemia or albuminuria (Grade A).   These guidelines also suggest most adult patients with diabetes should have a fasting lipid profile measured at least annually. A recent review of Florida Medicaid recipient claims data revealed more than 60,000 diabetic patients between the ages of 40-75 were not receiving a statin and two thirds of all Florida Medicaid diabetes patients had not received a lipid profile in the last year.   Prescribers are encouraged to discuss the risks and benefits of statin therapy in their diabetic patients between ages 40-75.As always, lifestyle modifications (healthy eating, weight control, increased physical activity) remain a critical component of health promotion and ASCVD risk reduction, both prior to and in concert with the use of cholesterol-lowering drugs. The ACC/AHA cholesterol guidelines are not intended to be a comprehensive approach to lipid management for purposes other than ASCVD risk reduction. Guidelines attempt to define practices that meet the needs of patients in most circumstances and are not a replacement for clinical judgment. The ultimate decision about care of a particular patient must be made by the healthcare provider and patient in light of the circumstances presented by that patient. As a result, situations might arise in which deviations from these guidelines may be appropriate. These considerations notwithstanding, in caring for most patients, clinicians can employ the recommendations of these guidelines confidently to reduce the risks of atherosclerotic cardiovascular disease events in their diabetic patients.1 2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines.  Available at: https://circ.ahajournals.org/content/early/2013/11/11/01.cir.0000437738.63853.7a.citation  Accessed August 28, 20142American Diabetes Association  Position Statement  Standards in Medical Care in Diabetes Diabetes Care 2014; 37:S14-S80; doi: 10.2337/dc14-S014  Available at:https://care.diabetesjournals.org/content/37/Supplement_1  Accessed August 28, 2014. November 20, 2014Antibiotic Utilization for Upper Respiratory Tract InfectionsAs we approach cold and flu season in Florida, prescribers are reminded of the importance of judicious use of antibiotics in the treatment of upper respiratory tract infections in both pediatric and adult patients. The Centers for Disease Control and Prevention (CDC) has developed a “Get Smart” campaign (https://www.cdc.gov/grand-rounds/pp/2013/20131119-antibiotic-resistance.html) to address sound utilization of antibiotics in order to curb the epidemic of antibiotic resistance. Specifically, one of the initial activities of the CDC’s Get Smart campaign was to collaborate with various medical societies to develop guidelines for appropriate antibiotic use in upper respiratory tract infections.  The following links provide appropriate antibiotic treatment summaries for prescribers. Adults: https://www.cdc.gov/vaccines/schedules/downloads/adult/adult-combined-schedule.pdf[  ]Pediatrics: https://www.cdc.gov/vaccines/schedules/downloads/child/0-18yrs-child-combined-schedule.pdf[  ]A recent publication in the journal “Pediatrics” defines three principles of judicious antibiotic principles for pediatric upper respiratory tract infections.  The first principle is to the determine the likelihood of a bacterial infection, the second principle is to weigh the benefits versus harms of antibiotics and the third principle is to implement judicious prescribing strategies, specifically noting the rates of pneumococcal resistance to macrolides and oral third-generation cephalosporins make these agents poor choices for treating most children with suspected bacterial URIs.Data specific to the southeastern United States show that Streptococcus pneumoniae susceptibility to azithromycin was 55.9 percent (based on 68 isolates) in 2006 and had fallen to 40.4 percent susceptibility (based on 94 isolates) in 2010.  iHersh AL, Jackson MA, Hicks LA, et al. Principles of Judicious Antibiotic Prescribing for Upper Respiratory Tract Infections in Pediatrics. Pediatrics 2013; 132: 1146-1154 DOI: 10.1542/peds.2013-3260ii Antimicrobial Resistance Management Program University of Florida Available at: https://www.armprogram.com/TrendCrystalReport.aspx?Region=SouthEast&OrganismID=1 Accessed August 25, 2014July 21, 2014Lunesta Safety Alert - Next Day ImpairmentOn May 15, 2014, the U.S. Food and Drug Administration (FDA) issued a warning that the insomnia drug Lunesta (eszopiclone) can cause next-day impairment of driving and other activities that require alertness. As a result, the recommended starting dose of Lunesta is being decreased to 1 mg at bedtime. A study of Lunesta found that the previously recommended dose of 3 mg may cause impairment to driving skills, memory, and coordination that can last more than 11 hours after receiving an evening dose. Patients were often unaware they were impaired. Women and men are equally susceptible to impairment from Lunesta; therefore, the reduction in initial dosing is the same for both genders. If an increase in dosing is warranted to either 2 mg or 3 mg, there may be higher incidences in next-day impairment of driving and other activities that require full alertness. Patients should exercise extreme caution when taking a 3 mg dose. It is strongly advised against driving or engaging in other activities that require complete mental alertness the day after use. References:Lunesta (eszopiclone) package insert. Marlborough, MA: Sunovion Pharmaceuticals Inc; 2014 May.FDA Drug Safety Communication: FDA warns of next-day impairment with sleep aid Lunesta (eszopiclone) and lowers recommended use. June 2, 2014. Available at:  https://www.fda.gov/Drugs/DrugSafety/ucm397260.htm#  May 15, 2014Chantix UpdateEffective November 21, 2012, Chantix was added to the preferred drug list (PDL), with minimum age limitations of 18 years and quantity limits of two tablets per day.  Ninety days (twelve weeks) of therapy are allowed without a prior authorization (PA).  After ninety days of continuous therapy, a PA is required for an additional ninety days (twelve weeks) of therapy.  A nicotine/cotinine lab test (blood or urine only) must be submitted with the prior authorization request, to verify that the patient is still abstinent from smoking.  To prevent an interruption in therapy, the providers should submit prior authorization requests and the required test results prior to the completion of the initial 12-week treatment course.Recipients are limited to one treatment cycle of 180 days every two years.The recommended dose of Chantix is 1 mg twice daily following a 1-week titration, for twelve weeks.  An additional 12-week treatment course is recommended to increase the likelihood of long-term abstinence from smoking.Additional smoking cessation products covered by Florida Medicaid include nicotine patches, nicotine gum, and Zyban (bupropion) tablets.  Reimbursement for these products are limited to twenty-four weeks duration per 365 days, or the manufacturer’s recommendation (whichever is less).Smoking cessation information and resources are available at the following websites:https://www.floridahealth.gov/prevention-safety-and-wellness/tobacco-free-florida/index.htmlhttps://health.usf.edu/ahec/tobacco/cessationMarch 26, 2014Update: Leukemia Drug Iclusig (ponatinib) Returns to MarketOn October 31, 2013, at the request of the Food and Drug Administration (FDA), Ariad Pharmaceuticals suspended marketing and sales of the oral kinase inhibitor Iclusig (ponatinib) due to the risk of life-threatening blood clots and severe narrowing of blood vessels.  The manufacturer of Iclusig has implemented new safety measures required by the FDA.New safety measures for Iclusig include a risk evaluation and mitigation strategy (REMS), updated medication guide and revised label changes narrowing the indication for specific patient populations, updated dosage recommendations, and warnings about the potential risk of vascular occlusion and cardiac failure. Biologics Inc., an integrated oncology service company has been selected by Ariad Pharmaceuticals to be the exclusive specialty pharmacy provider of Iclusig and the manager of its Patient Access and Support Services (PASS) Program.  For information related to accessing the medication providers may contact Ariad PASS Program at 1-855-447-PASS (7277) or visit the website.References:ARIAD Pharmaceuticals, Inc (2014). ARIAD Announces the Commercial Availability of Iclusig (Ponatinib) for Patients with Refractory Philadelphia-Positive Leukemias in the U.S.  FDA Drug Safety Communication: FDA requires multiple new safety measures for leukemia drug Iclusig; company expected to resume marketing. December 20, 2013. Available at: https://www.fda.gov/Drugs/DrugSafety/ucm379554.htmJanuary 10, 2014End of the Enhanced Benefits ProgramDear Pharmacies who participate with Enhanced Benefits (EB).  The EB program will be ending in Baker, Clay, Duval and Nassau counties May 1, 2015 and in Broward county July 1, 2015.  At those times beneficiary EB accounts will be brought to $0 and no OTC product purchases will be allowed.  As we get closer to those times, AHCA will provide updates.  For more information regarding this update please visit the Enhance Benefits Reward$ Program web page.1-800-603-1714. 
+
+
+
+
+
+
+
+
+
+                        Prescribed Drugs
+                    
+
+
+
+
+
+                                Additional Information
+                            
+
+
+
+                                Behavioral Health Medication Management Resources
+                            
+
+
+
+                                Counterfeit-proof Prescription Blank Program
+                            
+
+
+
+                                Drug Criteria
+                            
+
+
+
+                                Drug Utilization Review Board
+                            
+
+
+
+                                Early and Periodic Screening, Diagnostic and Treatment (EPSDT) Benefit
+                            
+
+
+
+                                Florida Medicaid Preferred Drug Program
+                            
+
+
+
+                                Medicaid Pharmaceutical & Therapeutics Committee
+                            
+
+
+
+                                Ombudsman Program
+                            
+
+
+
+                                Pharmacy Meeting Notices
+                            
+
+
+
+                                Pharmacy Reports and Presentations
+                            
+
+
+
+                                Remittance Advice Provider Alerts
+                            
+
+
+
+                                State Maximum Allowed Cost (SMAC)
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

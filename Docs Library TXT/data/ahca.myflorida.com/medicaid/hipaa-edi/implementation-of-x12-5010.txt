@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implementation of X12 5010 | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Implementation of X12 5010
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+HIPAA EDI
+
+
+
+Implementation of X12 5010
+
+
+
+
+
+
+
+
+
+
+
+Implementation of X12 5010Florida Medicaid implemented the 5010 version of the HIPAA standard transactions on January 1, 2012. If your X12 claims transactions are rejected by the Florida Medicaid system please validate that you are submitting the 5010 version by consulting your clearinghouse or vendor.HIPAA 5010 versions introduce new formats and additional data elements for transactions and code sets that are required to be implemented by all users of electronic health care transactions. Florida-specific updates are outlined in the 5010 Companion Guides.For Florida Medicaid, the HIPAA transactions listed below will be impacted by the 5010 transition:837 Institutional Health Care Claim837 Professional Health Care Claim837 Dental Health Care Claim835 Health Care Electronic Remittance270/271 Health Care Eligibility Benefit Inquiry and Response276/277 Health Care Claims Status and Response834 Benefit Enrollment and Maintenance820 Health Care Premium Payments277U Unsolicited Claims Acknowledgement997 Functional Acknowledgement
+
+
+
+
+
+
+
+
+
+                        HIPAA EDI
+                    
+
+
+
+
+
+                                Implementation of X12 5010
+                            
+
+
+
+                                National Required Transactions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

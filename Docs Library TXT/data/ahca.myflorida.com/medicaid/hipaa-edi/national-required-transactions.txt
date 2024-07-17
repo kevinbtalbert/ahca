@@ -1,0 +1,424 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National Required Transactions | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+National Required Transactions
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+HIPAA EDI
+
+
+
+National Required Transactions
+
+
+
+
+
+
+
+
+
+
+
+National Required TransactionsThe law does not require providers to submit transactions electronically. It does require that all transactions submitted electronically comply with the standards. To comply with the transaction standards, health care providers and health plans may exchange the standard transactions directly, or they may contract with a clearinghouse to perform this function. Clearinghouses may receive non-standard transactions from a provider, but they must convert these into standard transactions for submission to the health plan. Similarly, if a health plan contracts with a clearinghouse, the health plan may submit non-standard transactions to the clearinghouse, but the clearinghouse must convert these into standard transactions for submission to the provider.270/271 Health Care Eligibility Benefit Inquiry and Response - This transaction set is used to inquire about the eligibility, coverages or benefits associated with a benefit plan, employer, plan sponsor, subscriber or a dependent under the subscriber's policy.275 Additional Information to Support a Health Care Claim or Encounter - This transaction is used to respond to a 277 Health Care Claim Request for Additional Information, a paper request for additional information, or to provide unsolicited additional information to support a 837 Health Care Claim or Encounter sent within the same transmission.276/277 Health Care Claims Status and Response - This transaction set is used by a provider, recipient of health care products or services, or their authorized agent to request the status of a health care claim or encounter from a health care payer. This transaction set is not intended to replace the Health Care Claim Transaction Set (837), but rather to occur after the receipt of a claim or encounter information.278 Health Care Services Review - (Prior Authorization) This transaction is used to transmit health care service information, such as subscriber, patient, demographic, diagnosis or treatment data for the purpose of request for review, certification, notification or reporting the outcome of a health care services review. Expected users of this transaction are payers, plan sponsors, providers, utilization management and other entities involved in health care services review.820 Health Plan Premium Payment - This transaction is an order to a financial institution to make a payment to a payee. It is also a remittance advice (RA), identifying the detail needed to perform cash application to the payee's accounts receivable system. The RA can go directly from payer to payee, through a financial institution, or through a third party agent.834 Benefit Enrollment and Maintenance - This transaction is used to establish communication between the sponsor of the insurance product and the payer. Such transaction(s) may or may not take place through a third party administrator (TPA). For the purpose of this standard, the sponsor is the party or entity that ultimately pays for the coverage, benefit or product. A sponsor can be an employer, union, government agency, association, or insurance agency. The payer refers to an entity that pays claims, administers the insurance product or benefit, or both. A payer can be an insurance company, health maintenance organization (HMO), preferred provider organization (PPO), government agency (Medicare, Medicaid, Champus, etc.), or an entity that may be contracted by one of these former groups. For the purposes of the 834 transaction set, a third party administrator (TPA) can be contracted by a sponsor to handle data gathering from those covered by the sponsor if the sponsor does not elect to perform this function itself.835 Claims Payment and Remittance Advice (RA) - This transaction set can be used to make a payment, send an Explanation of Benefits (EOB) RA, or make a payment and send an EOB RA only from a health insurer to a health care provider either directly or via a financial institution.837P Professional Health Care Claim - This transaction set is used to submit health care claim billing information, encounter information, or both, from providers of health care services to payers, either directly or via intermediary billers and claims clearinghouses. It is also used to transmit health care claims and billing payment information between payers with different payment responsibilities where coordination of benefits is required or between payers and regulatory agencies to monitor the rendering, billing, and/or payment of health care services with a specific health care/insurance industry segment. For purposes of this standard, providers of health care products or services may include entities such as physicians, hospitals and other medical facilities or suppliers, dentists, and pharmacies, and entities providing medical information to meet regulatory requirements. The payer refers to a third party entity that pays claims or administer the insurance product or benefit or both.837I Institutional Health Care Claim - Same purpose and provider/payer scope as the 837P. The 837I is selected based on user required data elements found only in the current version.837D Dental Health Care Claim - Same purpose and provider/payer scope as the 837P. The 837D is selected based on user required data elements found only in the current version.Retail Pharmacy Drug Claims - The National Council for Prescription Drug Programs (NCPDP) transaction is an online, real-time, two-way conversation between a pharmacy (provider) and a health plan.  The standard is used by covered entities for pharmacy and supplier transactions including:  claims, eligibility requests and responses, referral certification and authorization and Coordination of Benefits.  The ASC X12N 835 is transmitted by the health plan at a later time, and is used by the pharmacy for reconciliation to their accounting system.Guidance to version/format changes - This issue will be addressed when the Secretary of Health and Human Services (HHS) announces any successor version/format of the ASC X12N transactions. As a general rule, under HIPAA, new versions or formats cannot be required more than once every 12 months and health care providers must be allowed a minimum of 180 days advance notice to enable them to comply with the change. A crossover period of at least 90 days is anticipated for conversion between the old and new versions/formats. During this crossover period, both the old and new versions/formats will need to be supported. Further information regarding current format changes and transactions is found on the Washington Publishing Company (WPC) and the Centers for Medicare & Medicaid Web sites.
+
+
+
+
+
+
+
+
+
+                        HIPAA EDI
+                    
+
+
+
+
+
+                                Implementation of X12 5010
+                            
+
+
+
+                                National Required Transactions
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FX Vendor Resource Library | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+FX Vendor Resource Library
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+FX Vendor Resource Library
+
+
+
+
+
+
+
+
+
+
+
+FX Vendor Resource LibraryThe Agency’s FX program is an ongoing process that involves the preparation of specifications for upcoming contracts. To protect the competitive nature of FX procurements, the Agency will not have any discussions related to the scope, evaluation, or negotiation of any current or future procurement with vendors or their representatives, other than the Agency’s SEAS Vendor, IV&V Vendor, and IS/IP Vendor, who are precluded from bidding on future FX contracts. Procurements are subject to s. 287.057(23), Florida Statutes, between the release of the solicitation and the end of the 72-hour period following the agency posting the notice of intended award.The FX standards and plans below establish project management and process standardization across the FX Program.Enterprise Program Management Office (EPMO)
+
+    Artifact Management Standards
+
+
+    [
+                    
+                689.2 kB
+    ]
+
+ – Version 300
+
+    FX EPMO Charter and Program Management Plan (O-2)
+
+
+    [
+                    
+                665.3 kB
+    ]
+
+ – Version 500
+
+    Project Management Standards (P-2)
+
+
+    [
+                    
+                1 MB
+    ]
+
+ – Version 600
+
+    Attachment A – CRAIDL Fields Descriptions
+
+
+    [
+                    
+                481.9 kB
+    ]
+
+ – Version 600  
+
+    Attachment B – Intake and Assignment Process
+
+
+    [
+                    
+                111.3 kB
+    ]
+
+ – Version 600  
+
+    Attachment C – FX Hybrid Agile Framework
+
+
+    [
+                    
+                294.5 kB
+    ]
+
+ – Version 600  
+
+    Project Management Toolkit (P-3)
+
+
+    [
+                    
+                3.8 MB
+    ]
+
+ – Version 500
+
+    SEAS Management Plan (O-1)
+
+
+    [
+                    
+                379.3 kB
+    ]
+
+ – Version 600Medicaid Information Technology Architecture (MITA)
+
+    MITA Certification Plan (P-4)
+
+
+    [
+                    
+                1.7 MB
+    ]
+
+ – Version 500
+
+    MITA Concept of Operations (ConOps)
+
+
+    [
+                    
+                3.4 MB
+    ]
+
+ – Version 200
+
+    MITA State Self-Assessment
+
+
+    [
+                    
+                1.8 MB
+    ]
+
+ – Version 201Organizational Change Management (OCM)
+
+    OCM Responsible, Accountable, Consult, and Inform Matrix
+
+
+    [
+                    
+                139.3 kB
+    ]
+
+ – Version 100
+
+    OCM Standards – Working Instructions
+
+
+    [
+                    
+                486.6 kB
+    ]
+
+ – Version 100State and Federal StandardsFlorida Information Technology Project Management and Oversight StandardsFlorida Cybersecurity StandardsData Center OperationsCloud ComputingIdentity ManagementInteroperability and Patient Access Rule[  ]StrategyFuture State Business Process
+
+    Governance Plan (S-1)
+
+
+    [
+                    
+                828.3 kB
+    ]
+
+ – Version 700
+
+    Strategic Plan (S-3)
+
+
+    [
+                    
+                3.4 MB
+    ]
+
+ – Version 400 
+
+    Future State Business Process
+
+
+    [
+                    
+                401.5 kB
+    ]
+
+
+
+    Strategic Project Portfolio Management Plan (S-4)
+
+
+    [
+                    
+                1 MB
+    ]
+
+ – Version 300Technology
+
+    Data Management Strategy (T-1)
+
+
+    [
+                    
+                1.9 MB
+    ]
+
+ – Version 300
+
+    Data Standards (T-3)
+
+
+    [
+                    
+                906.9 kB
+    ]
+
+ – Version 300
+
+    Design and Implementation Management Standards (T-7)
+
+
+    [
+                    
+                968.2 kB
+    ]
+
+ – Version 450
+
+    Enterprise Data Security Plan (T-8)
+
+
+    [
+                    
+                1.1 MB
+    ]
+
+ – Version 400
+
+    Information Architecture (T-2)
+
+
+    [
+                    
+                1.3 MB
+    ]
+
+ – Version 300
+
+    Technical Architecture (T-5)
+
+
+    [
+                    
+                3.3 MB
+    ]
+
+ – Version 300
+
+    FX Architecture Summary
+
+
+    [
+                    
+                60.5 kB
+    ]
+
+
+
+    FX Portal Use Cases for Storyboarding
+
+
+    [
+                    
+                165.5 kB
+    ]
+
+
+
+    FXNet Network High-Level Conceptual Diagram
+
+
+    [
+                    
+                161.1 kB
+    ]
+
+
+
+    Technical Management Strategy (T-4)
+
+
+    [
+                    
+                1.3 MB
+    ]
+
+ – Version 400
+
+    Attachment A
+
+
+    [
+                    
+                2 MB
+    ]
+
+
+
+    Technology Standards (T-6)
+
+
+    [
+                    
+                339.9 kB
+    ]
+
+ – Version 350The following templates are used in the FX Program and are companions, as applicable, to some of the standards above.EPMO
+
+    Deliverable Expectations Document (DED)
+
+
+    [
+                    
+                206.4 kB
+    ]
+
+ – Version 500
+
+    DMS Risk & Complexity (R&C) Assessment Tool
+
+
+    [
+                    
+                172.3 kB
+    ]
+
+ – Version 100
+
+    FX Deliverable Template
+
+
+    [
+                    
+                191.4 kB
+    ]
+
+ – Version 250
+
+    FX Deliverables Submission Email Template
+
+
+    [
+                    
+                169.4 kB
+    ]
+
+ - Version 100
+
+    FX Module Deliverable Expectations Document (DED)
+
+
+    [
+                    
+                242.3 kB
+    ]
+
+ – Version 100
+
+    Monthly Status Report
+
+
+    [
+                    
+                231.5 kB
+    ]
+
+ – Version 200
+
+    Non-Status Meeting Agenda
+
+
+    [
+                    
+                183.6 kB
+    ]
+
+ – Version 300
+
+    Non-Status Meeting Minutes
+
+
+    [
+                    
+                128.9 kB
+    ]
+
+ – Version 300
+
+    Project Charter
+
+
+    [
+                    
+                231.7 kB
+    ]
+
+ – Version 100
+
+    Project Management Plan (PMP)
+
+
+    [
+                    
+                884.7 kB
+    ]
+
+ – Version 600
+
+    Risk Form
+
+
+    [
+                    
+                157.8 kB
+    ]
+
+ – Version 200
+
+    Schedule – DDI with R3
+
+
+    [
+                    
+                594.2 kB
+    ]
+
+ – Version 200
+
+    Schedule Assumptions and Constraints
+
+
+    [
+                    
+                150.8 kB
+    ]
+
+ – Version 200
+
+    Schedule Quality Control Checklist
+
+
+    [
+                    
+                303.8 kB
+    ]
+
+ – Version 500OCM
+
+    Change Identification Summary
+
+
+    [
+                    
+                210.5 kB
+    ]
+
+ – Version 100
+
+    Change Impacts List
+
+
+    [
+                    
+                97.5 kB
+    ]
+
+ – Version 100
+
+    Change Readiness Criteria
+
+
+    [
+                    
+                142 kB
+    ]
+
+ – Version 100
+
+    Communications Plan
+
+
+    [
+                    
+                306.2 kB
+    ]
+
+ – Version 100
+
+    Communications-Plan Matrix
+
+
+    [
+                    
+                124.9 kB
+    ]
+
+ – Version 100
+
+    Leader Interviews
+
+
+    [
+                    
+                100.4 kB
+    ]
+
+ – Version 100
+
+    Performance Results
+
+
+    [
+                    
+                81.7 kB
+    ]
+
+ – Version 100
+
+    Project-Schedule
+
+
+    [
+                    
+                167.7 kB
+    ]
+
+ – Version 100
+
+    Stakeholder Analysis
+
+
+    [
+                    
+                330.3 kB
+    ]
+
+ – Version 100
+
+    Stakeholder Engagement Plan
+
+
+    [
+                    
+                120.9 kB
+    ]
+
+ – Version 100
+
+    Stakeholder Heatmap
+
+
+    [
+                    
+                112.1 kB
+    ]
+
+ – Version 100
+
+    Stakeholder Survey
+
+
+    [
+                    
+                111.1 kB
+    ]
+
+ – Version 100
+
+    Strategy and Plans
+
+
+    [
+                    
+                232.5 kB
+    ]
+
+ – Version 100
+
+    Training Plan
+
+
+    [
+                    
+                237.8 kB
+    ]
+
+ – Version 100
+
+    Training Plan Tools
+
+
+    [
+                    
+                189.5 kB
+    ]
+
+ – Version 100
+
+    Weekly Status
+
+
+    [
+                    
+                228 kB
+    ]
+
+ – Version 100
+
+    Workforce Transition Plan
+
+
+    [
+                    
+                248.9 kB
+    ]
+
+ – Version 100Technical
+
+    Business Process and Rules Management Plan
+
+
+    [
+                    
+                302 kB
+    ]
+
+ – Version 300
+
+    Requirements Management Plan
+
+
+    [
+                    
+                256.1 kB
+    ]
+
+ – Version 400
+
+    System Impact Analysis Management Plan
+
+
+    [
+                    
+                155.7 kB
+    ]
+
+ – Version 400
+
+    Configuration Management Plan
+
+
+    [
+                    
+                191.7 kB
+    ]
+
+ – Version 400
+
+    Testing Management Plan
+
+
+    [
+                    
+                409.1 kB
+    ]
+
+ – Version 400
+
+    Software Problem Resolution Standards and Procedures Plan
+
+
+    [
+                    
+                146.5 kB
+    ]
+
+ – Version 350
+
+    Integrated System Implementation Management Plan
+
+
+    [
+                    
+                203.2 kB
+    ]
+
+ – Version 400
+
+    Integrated Program Operations Management Plan
+
+
+    [
+                    
+                238.6 kB
+    ]
+
+ – Version 400
+
+    Post Implementation Evaluation Plan
+
+
+    [
+                    
+                175.2 kB
+    ]
+
+ – Version 400
+
+    Quality Management Plan
+
+
+    [
+                    
+                165 kB
+    ]
+
+ – Version 400
+
+    Disaster Recovery Plan
+
+
+    [
+                    
+                289.8 kB
+    ]
+
+ – Version 400
+
+    Turnover Plan
+
+
+    [
+                    
+                238.3 kB
+    ]
+
+ – Version 400
+
+
+
+
+
+
+
+
+
+                        Florida Health Care Connections (FX)
+                    
+
+
+
+
+
+                                FX Contact Us
+                            
+
+
+
+                                FX Contracts
+                            
+
+
+
+                                FX FAQs
+                            
+
+
+
+                                FX Governance
+                            
+
+
+
+                                FX History
+                            
+
+
+
+                                FX Interagency Collaboration
+                            
+
+
+
+                                FX Organization
+                            
+
+
+
+                                FX Strategic Roadmap
+                            
+
+
+
+                                FX Vendor Resource Library
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outcome and Assessment Information Set (OASIS) | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Outcome and Assessment Information Set (OASIS)
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Survey and Certification Support Branch
+
+
+
+Outcome and Assessment Information Set (OASIS)
+
+
+
+
+
+
+
+
+
+
+
+Outcome and Assessment Information Set (OASIS)Florida home health agencies that are Medicare-certified or Medicaid-enrolled are required to electronically transmit to the state database in accordance with the federal reporting regulation (effective July 19, 1999). Florida HHAs should be using CMS-issued branch identifiers in M0016 instead of the prior Florida requirement to enter the state license number (without the preceding 'HHA' designation).The OASIS Helpdesk has an e-mail alert system to notify registered providers or interested parties of "late-breaking" OASIS information. Complete as much information using the registration link and check OASIS for Provider Type and Opt-In to receive emails or Opt-Out if you wish to stop receiving emails.Sign Up for OASIS AlertsOASIS questions can be emailed to the Agency for Health Care Administration (Florida QIES Helpdesk) at:FLQIES_HELP@ahca.myflorida.comForms:
+
+    OASIS Merge Split Request
+
+
+    [
+                    
+                155.2 kB
+    ]
+
+
+
+    OASIS Data Deletion Request
+
+
+    [
+                    
+                129.4 kB
+    ]
+
+
+
+    OASIS Data Move Request
+
+
+    [
+                    
+                162.6 kB
+    ]
+
+
+
+    Data Restore Request
+
+
+    [
+                    
+                105.4 kB
+    ]
+
+
+
+    OASIS Applicability Notice
+
+
+    [
+                    
+                102.2 kB
+    ]
+
+OASIS Exemption Attestation (OASIS submission is required for HHAs participating in the Medicare and/or Medicaid programs under 42 CFR §484.20 (G320), a federal condition of participation. OASIS does not apply to HHAs meeting certain exemption requirements. In an effort to facilitate submission compliance monitoring, the exemption attestation needs to be submitted annually or updated upon changes in exemption status.)Training:OASIS Updates/Provider TrainingTBAArchive Training:OASIS C-2 2018 Update: Link for Recorded Training - December 2017OASIS Submissions: Why, What and When: Link for Recorded Training - February 2018OASIS Quarterly Call: Link for Recorded Training - May 2018OASIS 2019 Update – Part 1: Link for Recorded Training - Dec 2018OASIS 2019 Update – Part 2: Link for Recorded Training - Dec 2018Bulletins:Centers for Medicare & Medicaid Services Spotlight & Announcements .OASIS Test Accounts:HHAs use the OASIS Validation Utility Tool (VUT), available on the iQIES homepage at iQIES Validation Utility Tool (VUT) to submit test XML files to provide evidence of their ability to submit patient assessments to CMS.The OASIS VUT is a software utility used to validate OASIS submission files in XML format. A login to iQIES is not required to access the iQIES OASIS VUT. Upon submission, users will have the option to download a validation report displaying their submission results to be provided to the surveyor as part of the pre-certification process.Medicare Beneficiary Identifier (MBI) Format Information:Print the confirmation page stating the submission was accepted for your records. A sample is attached.Note: It is recommended that users access iQIES using Chrome or an Internet browser alternative to Internet Explorer.If there are any questions regarding the use of the VUT, users can contact the service desk at: help@qtso.com or by phone: 800-339-9313.Other Web Links:Agency for Health Care Administration Home Care UnitCenters for Medicare & Medicaid Services (CMS) Home Health CompareCenters for Medicare & Medicaid Services (CMS) OASIS User Manuals and Q&A’sCenters for Medicare & Medicaid Services (CMS) OASIS Data SetsCenters for Medicare & Medicaid Services (CMS) Home Health Patient-Driven Groupings Model (PDGM)QIES Technical Support Office (QTSO)is CMS's contracted agent responsible for supporting the state OASIS system.Research Data Assistance Center  is a CMS contractor that provides free assistance to academic, government and non-profit researchers interested in using Medicare and/or Medicaid data for their research.Centers for Medicare & Medicaid Services (CMS) State Operations Manual Appendix B for HHACenters for Medicare & Medicaid Services (CMS) Policy & Memos to States and Regions (S&C Memos)CMS MLN Connects CMS News from the Medicare Learning NetworkFlorida Statutes Chapter 400 Nursing Homes and Related Health Care FacilitiesFlorida Rules 59A-8 Minimum Standards for Home Health AgenciesCMS Videos:The Centers for Medicare & Medicaid Services is releasing a series of short videos to assist providers with coding select Section GG items on the OASIS, IRF-PAI, LTCH CARE Data Set, and the MDS. These videos, ranging from 4-12 minutes, are designed to provided targeted guidance using simulated patient scenarios. To access the videos, click on the links below:Coding GG0110. Prior Device Use with Information From Multiple Sources (3:58)Decision Tree for Coding Section GG0130. Self-Care and GG0170. Mobility (11:56)Coding GG0130B. Oral Hygiene (4:25)Coding GG0170C. Lying to Sitting on side of bed (4:33)Coding GG0130A. Eating (6:19)GG0130H. Putting on/taking off footwear (6:24)GG0170L. Walking 10 feet on uneven surfaces. (5:52)GG1070P. Picking up object. (5:49)Introduction to the Home Health Quality Reporting Program Web-Based TrainingSection M: Skin Conditions - Assessment and Coding of Pressure Ulcers/Injuries Web-Based TrainingFrom Data Elements to Quality Measures – Cross-Setting QRP Web-Based Training.Lesson: What is the Home Health Quality Reporting Program (HH QRP)?Lesson: The Outcome and Assessment Information Set (OASIS)Lesson: OASIS Data SubmissionLesson: HH QRP ResourcesAvailable Training:
+
+    ePOC Provider Step by Step Instructions to attach documents in ePOC
+
+
+    [
+                    
+                98.4 kB
+    ]
+
+Home Health Quality Reporting TrainingQIES Technical Support Office: OASIS User Guides & TrainingOASIS Answers, Inc 
+
+
+
+
+
+
+
+
+
+                        Survey and Certification Support Branch
+                    
+
+
+
+
+
+                                Electronic Statement of Deficiencies and Plan of Corrections (ePOC)
+                            
+
+
+
+                                Minimum Data Set (MDS)
+                            
+
+
+
+                                Outcome and Assessment Information Set (OASIS)
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

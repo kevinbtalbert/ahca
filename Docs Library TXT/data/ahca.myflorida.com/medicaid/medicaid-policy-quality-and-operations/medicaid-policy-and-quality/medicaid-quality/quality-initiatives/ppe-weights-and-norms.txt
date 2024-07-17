@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PPE Weights and Norms | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+PPE Weights and Norms
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Policy and Quality
+
+
+
+
+Medicaid Quality
+
+
+
+
+Quality Initiatives
+
+
+
+PPE Weights and Norms
+
+
+
+
+
+
+
+
+
+
+
+OverviewUnder the Statewide Medicaid Managed Care (SMMC) program, the Agency and health plans created a set of Quality Initiatives aimed at continually improving quality and management of care while reducing costs. One such opportunity to address these initiatives involves the development and implementation of data-driven interventions in hospitals which identify and reduce potentially preventable events (PPE) defined by 3M Health Information Systems software. The Agency considers three 3M potentially preventable event types: emergency department visits (PPV), hospital admissions (PPA), and hospital readmissions (PPR). These events are deemed preventable as they may have been avoided with early intervention, better access to primary care or improved ambulatory care coordination.PPEs are expressed in rates which are calculated as a numerator over a denominator following the 3M methodology, often adjusted for population factors which could bias the calculation (e.g., accounting for older or “sicker” populations). The Excel file PPE_Norms_and_Weights.xlsx has four sheets with data which plays a critical role when plans compute their own PPA, PPV and PPR measures and aim to standardize their results.ACRG3 Norms3M Clinically Related Groups (ACRG3) were developed to classify patients based on their illness burden as measured by the cost incurred during a certain period. For PPAs and PPVs patients are assigned to one ACRG3 based on the clinical information on their claims/encounters in the year prior to the year with preventable events. For each ACRG3 a weight (or norm) is determined based on the effective reference year, which represents the expected cost or resource use for a patient. The expected costs are used in the denominator of the PPA and PPV rate calculations.DRG WeightsThe weights of the All Patient Refined Diagnostic Related Groups (APR DRG) are used to assign actual cost or resource use to the claims/encounters from the year with preventable hospital admissions (PPA). In this way, DRG weights approximate the actual cost or resource use for a preventable event in the numerator of the PPA rate.EAPG WeightsSimilarly, the Enhanced Ambulatory Patient Group (EAPG) weights are used to assign actual cost or resource use to a preventable emergency room visit (PPV). The EAPG weights are used in the numerator of the PPV rate calculation, representing the actual events weighted by costliness.PPR NormsThe expected events in the denominator of the PPR rate are based on the PPR norms, which are determined by a set of four factors: APR DRG, Severity of Illness (SOI), Mental Health Status, and Age. This contrasts with PPAs and PPVs, which use ACRG3 norms in their expected event counts. For PPRs the actual events are not weighted. They are the unweighted count of initial admissions leading to at least one readmission.
+
+    PPE Weights and Norms
+
+
+    [
+                    
+                1003.6 kB
+    ]
+
+
+
+
+
+
+
+
+
+
+
+                        Quality Initiatives
+                    
+
+
+
+
+
+                                Local Navigation
+                            
+
+
+
+                                PPE Weights and Norms
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

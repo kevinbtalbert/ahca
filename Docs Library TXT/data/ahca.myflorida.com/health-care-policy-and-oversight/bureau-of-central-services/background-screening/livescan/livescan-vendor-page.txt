@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Livescan Vendor Page | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Livescan Vendor Page
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Background Screening
+
+
+
+
+Livescan
+
+
+
+Livescan Vendor Page
+
+
+
+
+
+
+
+
+
+
+
+
+Livescan Vendor Page
+Thank you for serving as a Livescan  vendor for health care employees and providers. All screenings for specified agencies in the Care Provider Background Screening Clearinghouse, or  Clearinghouse, must be submitted electronically either through Livescan or  scanning a hard card (converting the card to an electronic submission to FDLE). Useful information and requirements for  Livescan vendors and providers can be found below.
+Background Screening Clearinghouse Requirements for Livescan  Vendors
+Florida House  Bill 943 created a “Care Provider Background Screening Clearinghouse” or  “Clearinghouse.” The purpose of the Clearinghouse is to provide a single data  source for background screening results of persons required to be screened by  law for employment in positions that provide services to children, the elderly,  and disabled individuals. The Clearinghouse shall allow the results of criminal  history checks to be shared among specified agencies when a person has applied  to volunteer, be employed, be licensed, or enter into a contract that requires  a state and national fingerprint-based criminal history check. (Section 435.12,  Florida Statutes).
+To comply with these  requirements the Agency for Health Care Administration (Agency) in consultation  with the Department for Law Enforcement (FDLE) has developed the Clearinghouse  system. This system and associated  services are maintained by the Agency.
+The  implementation of the Clearinghouse has impacted the business process and  requirements for Livescan Vendors   Service Providers providing services to employees and providers of the Clearinghouse. Specifically, Livescan service locations must have the ability to communicate electronically with the state agency accepting screening results from the FDLE and provide a photograph of the applicant taken  at the time the fingerprints are submitted. (Section 435.04(1)(e), Florida  Statutes).
+If you are not  already a photo capable and clearinghouse compliant Livescan location but wish to continue providing services to employees and providers of the Clearinghouse  there are two options listed below.
+Option 1.  Develop and implement  a direct connection to the Clearinghouse (through the Agency) in order to  transmit applicant data and photographs. The Clearinghouse Livescan Web Service (LSWS) High-Level Design Document  will aid interested vendors in the implementation of the LSWS. 
+
+
+    Clearinghouse LSWS High-Level Design Document
+
+
+    [
+                    
+                675.4 kB
+    ]
+
+  Updated: October 17, 2016
+Option 2.Purchase  equipment and software from an established Livescan vendor. There are several vendors from which the  software may be purchased, however the Agency does not recommend or endorse any  specific vendor. To view a list of  vendors in the State of Florida please visit the FDLE website. The vendors listed here may or may not have  photo software available for purchase.
+Clearinghouse Screening  Process and ORI Numbers
+Providers submit electronic prints to  the Florida Department of Law Enforcement (FDLE) for processing (typically  through a vendor).  The fingerprint submission must be accompanied by the  information listed below. Failure to submit this information may result in the
+  provider’s inability to obtain screening results:
+Full NameAddress (the individual’s address is needed for the Agency to make contact if necessary)Social Security Number (or  Tax ID Number. Section 435.04(1)(e))Date of BirthRaceSexHeightWeightHairColorEye ColorPlace  of BirthEmployer NameEmployer Address    Screening ORI Number
+ A list of active ORI numbers for specified agencies in the Clearinghouse can be found here:
+
+
+    Clearinghouse ORI Listing
+
+
+    [
+                    
+                17.1 kB
+    ]
+
+  Updated: November 27, 2018
+ This  information is available directly from the Clearinghouse system to Livescan  vendors and Livescan providers that have developed a direct connection or  purchased compliant software. It is also  available on the ‘Livescan Request Form’ which is given to potential employees  for the requesting provider.     
+
+
+
+
+    Sample Livescan Request Form
+
+
+    [
+                    
+                113.1 kB
+    ]
+
+
+AHCA  Provider Numbers
+The Agency has asked the providers, third party vendors and  health care contractors requesting a screening for AHCA purposes to provide an AHCA # when submitting a screening.  This helps the Agency identify the potential employer in the event we need to  communicate an employee’s disqualification.
+
+
+    AHCA Provider List
+
+
+    [
+                    
+                3.3 MB
+    ]
+
+ >
+    
+The above link will take you to downloadable spreadsheet  containing the “AHCA #” for each licensed health care and durable  medical equipment provider, initial applicants to the Agency and health  care contractors that may send individuals to Livescan sites for Level 2  screenings for the Agency for Health Care Administration.
+
+Medicaid providers and providers for other specified agencies do not have an  AHCA #.
+
+Thank you again for working with us. If you have any questions please contact our office at (850) 412-4503 or email BGScreen@ahca.myflorida.com.
+
+
+
+
+
+
+
+
+
+                        Livescan
+                    
+
+
+
+
+
+                                Livescan Service Provider Information
+                            
+
+
+
+                                Livescan Vendor Page
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

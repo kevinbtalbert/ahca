@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SMMC: Performance Measures Report | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+SMMC: Performance Measures Report
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Statewide Medicaid Managed Care
+
+
+
+
+Reports & Guides
+
+
+
+SMMC: Performance Measures Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Performance Measures Report Summary
+
+
+    [
+                    
+                119.8 kB
+    ]
+
+Report TemplateEffective DatePlan CommunicationIssue Date
+
+    Performance Measures Report
+
+
+    [
+                    
+                85.5 kB
+    ]
+
+Template updated 5/30/2024:  Minor Technical Corrections.
+Plans notified via email that this report template was updated on 5/30/2024:  A technical correction has been made to the Performance Measure Report File layout Instructions tab, Reporting by Race section (cell B20).  The Reporting by Race section has been updated to include all measures identified for Race/Ethnicity Stratification reporting in PT 2023-18, and to clarify that these stratifications are required for all measure components for the applicable measures.  Immunization for Adolescents (IMA) and Initiation and Engagement of Substance Use Disorder Treatment (IET) were added to the section and clarification regarding measure components was added for Asthma Medication Ratio (AMR), Colorectal Cancer Screening (COL), Follow-up after ED Visits for Substance Use (FUA), Prenatal and Postpartum Care (PPC), and Well-Child Visits in the First 30 Months of Life (W30).8/1/2024RCN 2024-045/8/2024
+
+    Performance Measures Report
+
+
+    [
+                    
+                80 kB
+    ]
+
+Template updated 6/9/2023: Minor Technical Corrections. Plans notified via email that this report template was updated on 6/9/2023: A technical correction has been made to the Performance Measure Report File layout for the Initiation and Engagement of Alcohol and Other Drug Abuse or Dependence Treatment (IET) metric to capture the revised age stratifications for MY 2022. Plans shall report three age stratifications and a total: 13-17 years, 18-64 years, 65+ years, and Total (these components match those reported in the IDSS for NCQA submission). The changes are reflected on the 0210 SUB-MEASURE ABBREV DESC tab.4/12/2023RCN 2023-064/12/2023
+
+    Performance Measures Report
+
+
+    [
+                    
+                69.9 kB
+    ]
+
+7/1/2022RCN 2022-154/19/2022
+
+    Performance Measures Report
+
+
+    [
+                    
+                59.7 kB
+    ]
+
+Plans notified via email this report template updated 6/16/2021: The following technical corrections were made to the ‘0210 SUB-MEASURE ABBREV DESC’ tab, (1) the Sub-Measure abbreviation for ‘Weight Assessment and Counseling for Nutrition and Physical Activity for Children/Adolescents (all three components) were updated to match the sub-measure group descriptions for the different age groups (cell C153, C154, C156, C157, C159, and C160); (2) For the Ambulatory Care (AMBa) measure, there were two different age groups in one cell. A change was made to remove the incorrect age group in Cells D26 and D27; On the ‘0211 SUB-MEASURE ABBREV DESC’ tab an update was made to correct the comma misplacement on measures calculated using member months. All instances for these measures now read “Per 100,000 member months”.Plans notified via email this report template updated 6/9/2021: A technical correction was made to the ‘0211 SUB-MEASURE ABBREV DESC’ tab; the Sub-Measures abbreviation for ‘All Women Ages 21 to 44 who were provided a long-acting reversible method of contraception (LARC)’ (cell C44) was updated to ccwadlarc.7/1/2021PT 2021-175/18/2021
+
+    Performance Measures Report
+
+
+    [
+                    
+                599.5 kB
+    ]
+
+7/1/2020PT 2020-335/14/2020 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,838 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SMMC Report Guide (Effective 10/1/14) - Archive | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+SMMC Report Guide (Effective 10/1/14) - Archive
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Statewide Medicaid Managed Care
+
+
+
+
+SMMC Report Guide Archive
+
+
+
+SMMC Report Guide (Effective 10/1/14) - Archive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SMMC Home
+
+
+Federal  Authorities
+
+
+SMMC Report Guide (Effective 10/1/14) - Archive
+
+
+    SMMC Report Guide
+
+
+    [
+                    
+                592.1 kB
+    ]
+
+Effective 10/1/2014
+
+SMMC Report Guide Templates:
+
+
+    ACA PCP Payment Increase Encounter Data File Layout - MMA
+
+
+    [
+                    
+                16.5 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    ACA PCP Payment Increase MPA SFTP Instructions - MMA
+
+
+    [
+                    
+                199 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    ACA PCP Payment Increase Summary Information - MMA
+
+
+    [
+                    
+                26.2 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Administrative Subcontractors and Affiliates    Report
+
+
+    [
+                    
+                647.3 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Annual Fraud and Abuse Activity Report
+
+
+    [
+                    
+                26.2 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Audited Annual and Unaudited Quarterly Financial Reports
+
+
+    [
+                    
+                436.5 kB
+    ]
+
+Effective 6/1/2014
+
+
+
+    Case Manager Caseload Report - LTC
+
+
+    [
+                    
+                38.5 kB
+    ]
+
+Effective 10/1/14
+
+
+
+    Case Management File Audit Report - LTC
+
+
+    [
+                    
+                20.2 kB
+    ]
+
+Effective 10/1/14
+
+
+
+    Case  Manager Monitoring and Evaluation Report - LTC
+
+
+    [
+                    
+                33 kB
+    ]
+
+
+
+
+    Child Health Check-Up - MMA
+
+
+    [
+                    
+                229 kB
+    ]
+
+
+
+      Claims Aging Report for SMMC
+       Effective 6/1/14
+
+
+
+    Claims Aging  Supplemental Filing Report  for SMMC
+
+
+    [
+                    
+                2.5 MB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Code 15 Report
+
+
+    [
+                    
+                13.4 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Critical Incident Report
+
+
+    [
+                    
+                13.4 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Critical Incident Summary Report
+
+
+    [
+                    
+                76.4 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Denial, Reduction, Termination or Suspension of Services Report  - LTC
+
+
+    [
+                    
+                30 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Enrollee Complaints, Grievances and Appeals    Report
+
+
+    [
+                    
+                3.8 MB
+    ]
+
+   Effective 6/1/14
+
+
+    Enrollee Roster and Facility Residence Report - LTC
+
+
+    [
+                    
+                39 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Freedom of Choice Selection Report
+
+
+    [
+                    
+                59 kB
+    ]
+
+Effective 10/1/14
+
+
+
+    Hernandez Settlement Agreement Log - MMA
+
+
+    [
+                    
+                238 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Hernandez Settlement Agreement Survey - MMA
+
+
+    [
+                    
+                31 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Insolvency Protection Multiple Signature Verification Agreement Form
+
+
+    [
+                    
+                106.8 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Marketing Agent Termination Report
+
+
+    [
+                    
+                88.5 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Marketing Outreach Events Notification Logs
+
+
+    [
+                    
+                277 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Missed Services Report - LTC
+
+
+    [
+                    
+                22.7 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Patient  Responsibility Report - LTC
+
+
+    [
+                    
+                16.4 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Participant Directed Option Roster Report - LTC
+
+
+    [
+                    
+                19.5 kB
+    ]
+
+Effective 6/1/14
+
+
+
+    Performance Measures Report LTC & MMA
+
+
+    [
+                    
+                134.5 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Provider    Complaint Report
+
+
+    [
+                    
+                864 kB
+    ]
+
+Effective    6/1/14
+
+
+
+    Provider Termination and New Provider    Notification Report
+
+
+    [
+                    
+                41 kB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Timely Access PCP Wait Times Report - MMA
+
+
+    [
+                    
+                1.7 MB
+    ]
+
+ Effective 6/1/14
+
+
+
+    Unable to Locate/Contact Enrollee Report
+
+
+    [
+                    
+                38 kB
+    ]
+
+Effective 10/1/2014
+
+
+
+
+
+
+
+
+
+
+                        Statewide Medicaid Managed Care
+                    
+
+
+
+
+
+                                Data Book - Dental Program Re-Procurement
+                            
+
+
+
+                                IDD Pilot Program
+                            
+
+
+
+                                New SMMC Program
+                            
+
+
+
+                                Plan Communications Prior to 2022
+                            
+
+
+
+                                SMMC Report Guide Archive
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

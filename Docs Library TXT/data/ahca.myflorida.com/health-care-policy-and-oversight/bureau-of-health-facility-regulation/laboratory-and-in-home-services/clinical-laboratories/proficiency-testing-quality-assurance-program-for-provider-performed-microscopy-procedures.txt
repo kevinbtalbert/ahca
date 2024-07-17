@@ -1,0 +1,474 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proficiency Testing/Quality Assurance Program for Provider Performed Microscopy Procedures | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Proficiency Testing/Quality Assurance Program for Provider Performed Microscopy Procedures
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Laboratory and In-Home Services
+
+
+
+
+Clinical Laboratories
+
+
+
+Proficiency Testing/Quality Assurance Program for Provider Performed Microscopy Procedures
+
+
+
+
+
+
+
+
+
+
+
+ Proficiency Testing/Quality Assurance Program for Provider Performed Microscopy ProceduresProvider Performed Microscopy Procedures (PPMP) include the following non-waived Laboratory tests:
+
+
+
+ 
+
+
+
+ 
+
+
+
+ Q0111  - Wet mounts, including preparations of vaginal, cervical or skin specimensQ0112  - All potassium hydroxide (KOH) preparationsQ0113  - Pinworm examinationsQ0114  - Fern testQ0115  - Post-coital direct, qualitative examinations of vaginal or cervical mucous81015  - Urinalysis; microscopic only81000  - Urinalysis, by dipstick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, specific gravity, urobilinogen, any number of these constituents; non-automated, with microscopy81001  - Urinalysis, by dipstick or tablet reagent for bilirubin, glucose, hemoglobin, ketones, leukocytes, nitrite, pH, protein, pecific gravity, urobilinogen, any number of these constituents; automated, with microscopy (NOTE: May only be used when the lab is using an automated dipstick urinalysis instrument approved as waived.)81020  - Urinalysis; two or three glass test89055  - Fecal leukocyte examination (Effective: January 1, 2004)G0027  - Semen analysis; presence and/or motility of sperm excluding Huhner89190  - Nasal smears for eosinophilsCLIA requires that laboratories ensure the accuracy of testing and that the Laboratory verify the accuracy of any test or procedure. This requirement is addressed in 42 CFR 493.1236 and 42 CFR 493.1239. In addition, State Laboratory regulations require laboratories that only perform PPM procedures to establish a Quality Assurance Program that includes the requirement to verify the accuracy of testing at least every 6 months This requirement is addressed in 59A-7.029(3)(b), Florida Administrative Code.There are two methods of satisfying this requirement. The method your lab uses must be outlined in the Laboratory’s policy and procedure manual and made available to the Agency for Health Care Administration or CLIA Laboratory Program upon request. It also must be reported biennially in your non-waived Laboratory renewal application or in any initial application submitted to establish a new PPMP Laboratory.1. Peer Review. Every six months a Laboratory would split a patient specimen and create two slides for review. These slides would be reviewed by two qualified testing personnel members (MD, DO, DPM, DDM, CNM, ARNP, PA) and the results of each review documented. The Laboratory director then evaluates the test reports to determine that the same interpretation was made by each provider. Corrective action is required and must be documented on any reports that do not correlate.The Laboratory should perform peer review based on a number of slides representative of the Laboratory’s annual testing volume for each PPM procedure. This should include if possible at least one positive and one negative (or one normal and one abnormal) sample. If there are two physicians performing testing in the Laboratory, both should be involved in this program.In laboratories in which there is only one qualified person, the Laboratory would need to establish a relationship with another licensed Laboratory performing the same testing.2. Enrollment with a Proficiency Testing Company. Many Proficiency Testing (PT) companies offer a limited number of PT samples for “unregulated” tests. CLIA classifies PPMPs as “unregulated”. You may elect to enroll with a company that offers a Microscopy PT program. Following is a list of PT programs that offer PPM Modules:ACCUTEST https://www.digitalpt.com/HealthMetrx/public/prepareHome.doAmerican Academy of Family Physicians (AAFP) https://www.aafp.org/family-physician/practice-and-career/managing-your-practice/pt-lab-testing.htmlAmerican Association of Bioanalysts (AAB) https://www.aab-pts.orgAmerican Proficiency Institute (API) https://api-pt.comCollege of American Pathologists (CAP) https://www.cap.org/laboratory-improvement/proficiency-testingMedical Laboratory Evaluation (MLE) https://www.acponline.org/running_practice/mle/Wisconsin State Laboratory of Hygiene (WSLH) https://www.slh.wisc.edu/pt/This is not an endorsement of any PT testing companyIf you elect to enroll with a PT company, you can determine accuracy based on the scoring of your PT samples. Please note: You may not send these PT samples out of the Laboratory for any reason. This is considered PT Referral and is prohibited under CLIA.Regardless of the method, you must keep a copy of all PT/Quality Assurance records for a minimum of two years. These records include: procedures for PT sample preparation and handling, PT sample testing procedure, PT program submission forms, PT program evaluation reports, and any corrective action documentation.
+
+
+
+
+
+
+
+
+
+                        Clinical Laboratories
+                    
+
+
+
+
+
+                                Waived Laboratories
+                            
+
+
+
+                                Proficiency Testing/Quality Assurance Program for Provider Performed Microscopy Procedures
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Ruby
+                                                                Grantham
+                                                                
+                        Manager, Laboratory and In-Home Services Unit
+                                    
+
+Bureau of Health Facility Regulation
+2727 Mahan Drive - Mail Stop #32
+Tallahassee, FL 32308
+                                                    Phone: (850) 412-4500
+
+                    Email: Labstaff@ahca.myflorida.com
+Florida Relay Service (TDD): (800) 955-8771
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,491 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality Assurance (Proficiency Testing) | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Quality Assurance (Proficiency Testing)
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Laboratory and In-Home Services
+
+
+
+Quality Assurance (Proficiency Testing)
+
+
+
+
+
+
+
+
+
+
+
+ Quality Assurance (Proficiency Testing)The Centers for Medicare and Medicaid Services (CMS) have published a brochure with questions and answers regarding CLIA required proficiency testing: https://www.cms.gov/CLIA/downloads/CLIAbrochure8.pdf[  ] Excerpts from that brochure with the more frequently asked questions are also presented below. Nonwaived providers are encouraged to review this CLIA brochure. Nonwaived providers include Provider Performed Microscopy (PPM) providers.All initial non-waived applicants for state licensure must identify the name of the proficiency testing program in which the Laboratory participates for each specialty/subspecialty and the program set for each in the initial licensure application. This information must also be provided when adding a specialty/subspecialty. Additionally, Provider Performed Microscopy (PPM) laboratories must also indicate the quality assurance methodology used for each non-waived test.Additional information for PPMP providers
+
+
+
+ What is proficiency testing?Proficiency testing or PT is the testing of unknown samples sent to a Laboratory by a CMS approved PT program. Most sets of PT samples are sent to participating laboratories three times per year. After testing the PT samples in the same manner as its patient specimens, the Laboratory reports its sample results back to their PT program. The program grades the results using the CLIA grading criteria and sends the Laboratory scores reflecting how accurately it performed the testing. CMS and accreditation organizations routinely monitor their laboratories’ performance.Is PT required for all nonwaived testing?PT is required for only the limited number of tests found in Subpart I, Proficiency Testing Programs for Nonwaived Testing, of the CLIA regulations. If your Laboratory performs any of the tests found in subpart I, you must perform PT on each of the tests. We refer to the tests listed in subpart I as “regulated” analytes.Review the specialty, subspecialty and analytes listed and determine which specialties, subspecialties and analytes you perform in your Laboratory. Enroll in a CMS approved PT program for each of those tests.Can I enroll in any program that offers PT?You must enroll in a CMS approved PT program. A detailed listing of these programs with their contact information and the tests for which they are approved is available at www.cms.hhs.gov/clia; click on “PT providers”.If I have more than one testing site, do I need to enroll in PT for each site?PT enrollment and participation is required for each CLIA certificate; i.e., PT per certificate (excluding certificate of waiver). If you offer non-waived testing at more than one site, but the testing is all included under one certificate, you must enroll in an approved PT program(s) for all the “regulated” analytes covered under that certificate, not for each site. If you have a separate certificate for each site, you must enroll in PT for the tests performed at each site.May I change my PT program whenever I wish as long as it is CMS approved?You may not randomly change from one approved PT program(s) to another. Laboratories must enroll and participate in one approved program for one year before designating a different program. Laboratories should enroll in the fall for the next calendar year. However, if you apply for a new CLIA certificate mid-year or add a “regulated” specialty, subspecialty, or analyte in the middle of a year, you may change PT programs at the next PT enrollment period.If my Laboratory is new or if I add a new “regulated” specialty, subspecialty or analyte in the middle of a calendar year, how quickly must I enroll in PT?Laboratories operating under a new certificate and/or adding new “regulated” testing must enroll in PT as soon as possible and complete the PT for the remainder of the year.If I perform “unregulated” testing (tests for which PT is not required), am I required to check the accuracy and reliability of those tests?CLIA requires laboratories to take steps to assure the accuracy of testing in lieu of testing PT samples. CLIA requires that, at least twice annually, you verify the accuracy of any test or procedure that you perform that is not listed in Subpart I.How do I verify the accuracy of the tests that do not have PT required?A few examples of ways to check the accuracy of testing not listed in Subpart I are as follows: Split a patient’s specimen (NEVER SPLIT A PT SAMPLE) with another Laboratory that offers the same test(s). Your director should review your results and the other Laboratory’s results for acceptability.Are there ever circumstances in PT that require my Laboratory to verify the accuracy of “regulated” tests?Yes, there are. There are times when the PT program cannot fully evaluate your samples and you must verify accuracy (a few ways to accomplish this are listed above). You must verify the accuracy of tests for which PT is required if any of the following occur:When your results are submitted to the program after the deadline and are considered a late submission, your Laboratory grade will be zero.If you did not test your PT samples at all, your Laboratory grade will be zero.There are instances when your grade does not reflect your performance because there was no consensus among all laboratories performing the PT sample(s). You will see this identified by the PT program as “ungradable” on your results report. You will be assigned an artificial score of “100%”, noted as “ungradable”, but that does NOT reflect your performance.May I discuss my PT results with another Laboratory?NEVER discuss your PT results with another Laboratory and NEVER enter into discussion with another Laboratory about their PT results before the PT event cut-off date. This activity may cause you to lose your CLIA certificate.May I send my PT samples to another Laboratory to see if they get the same results as I do?NEVER send your PT samples to another Laboratory even if you send your patient specimens to another Laboratory for confirmation or identification testing. (Please read the PT results sheet carefully and select “Would refer” or “Test not performed” in these instances.) Sending PT samples to another Laboratory for testing is considered PT referral and will cause serious actions to be taken against your Laboratory, your Laboratory director, and the Laboratory owner. The penalties include loss of your Laboratory’s CLIA certificate for at least one year, your director cannot direct a Laboratory for two years, and your Laboratory owner may not own or operate a Laboratory for two years. Your Laboratory’s name will be listed on the CMS Laboratory Registry on the CMS web site. Be extremely cautious NOT to send PT samples out for a “reflex” test. (A “reflex” test is a test procedure routinely added-on to a patient specimen when the test results are at a level that meets the clinician’s threshold to automatically add specific tests. This is usually done by a “standing” order.)What do I do if I receive PT samples from another Laboratory for testing?As soon as you identify them as PT samples, notify your inspecting agency (your accreditation organization if your Laboratory is accredited or your State agency inspectors) that you have received PT samples from another Laboratory, tell them the name of the other Laboratory and the test(s) requested, but DO NOT TEST the samples.Do I need to keep records of my PT testing?Yes, you must keep a copy of all your records, such as the step by step PT sample preparation and handling, all the steps taken in the testing of the sample, a copy of the PT program results form used to record and submit your PT results (includes the attestation statement), a print screen if results are entered electronically, and the PT program’s evaluation of your Laboratory’s performance, etc. These copies must be maintained for a minimum of two years from the date of the PT event. If any corrective actions are taken as a result of an unsatisfactory or unacceptable score, maintain records of these actions for two years also.This CLIA brochure (https://www.cms.gov/CLIA/downloads/CLIA%20brochure8.pdf[  ]) lists the regulated analytes beginning on page 10. Hospitals and independent laboratories are required to enroll in Proficiency Testing for all tests performed, if PT is available for the test. If PT is not available for a test, they must have a method to verify accuracy twice annually.Laboratories operated by practitioners exclusively for diagnosis and treatment of their own patients are required to enroll only in the regulated analytes and they must perform twice annual verification of accuracy for non-regulated analytes.Regulated Analytes: List of Nonwaived Testing for which PT is Required:MICROBIOLOGYBacteriologyAerobic/Anaerobic Culture & Identification Antibiotic Susceptibility Testing Direct Bacterial Antigen Detection Gram StainMycobacteriologyAcid Fast Stain Mycobacteriology Identification Mycobacteriology Susceptibility TestingMycologyCulture and IdentificationParasitologyPresence or Absence of ParasitesIdentification of ParasitesVirologyDirect Viral Antigen DetectionViral Isolation and IdentificationDIAGNOSTIC IMMUNOLOGYSyphilis Serology General ImmunologyAlpha-1 Antitrypsin Alpha Fetoprotein (tumor marker) Antinuclear Antibody Antistreptolysin O Anti-Human Immunodeficiency Virus(Anti-HIV)Complement C3Complement C4Hepatitis B Surface Antigen (HBsAg)Hepatitis B Core Antibody(Anti-HBc)Hepatitis Be Antigen (HBeAg)Immunoglobulins, total:IgAIgGIgMIgEInfectious Mononucleosis Rheumatoid Factor RubellaCHEMISTRYRoutine ChemistryAlanine Aminotransferase(ALT or SGPT)AlbuminAlkaline PhosphataseAmylase Aspartate Aminotransferase (AST or SGOT)Bilirubin, totalBlood Gases:pHpCO2pO2Calcium, totalChlorideCholesterol, totalCholesterol, HDLCreatine Kinase, totalCreatine Kinase, Isoenzyme (CK-MB) Creatinine Glucose Iron, total Lactate Dehydrogenase (LDH), total LDH Isoenzymes (LDH1/LDH2) Magnesium Potassium Sodium Total Protein Triglycerides Urea Nitrogen Uric AcidEndocrinologyCortisol Free Thyroxine Human Chorionic Gonadotropin T3 Uptake Triiodothyronine Thyroid Stimulating Hormone Thyroxine, totalToxicologyBlood AlcoholBlood LeadCarbamazepineDigoxinEthosuximideGentamicin Lithium Phenobarbital Phenytoin Primidone Procainamide and Metabolite Quinidine Theophylline Tobramycin Valproic acidHEMATOLOGYCell Identification WBC Differential Erythrocyte Count Hematocrit Hemoglobin Leukocyte Count Platelet Count Fibrinogen Partial Thromboplastin Time Prothrombin TimeIMMUNOHEMATOLOGYABO Group D (Rho) Typing Unexpected Antibody Detection Compatibility Testing Antibody Identification
+
+
+
+
+
+
+
+
+
+                        Laboratory and In-Home Services
+                    
+
+
+
+
+
+                                Clinical Laboratories
+                            
+
+
+
+                                End Stage Renal Disease (ESRD) Dialysis Facilities
+                            
+
+
+
+                                Forensic Toxicology Laboratories
+                            
+
+
+
+                                Home Health Agencies
+                            
+
+
+
+                                Exemption from Home Health Agency Licensure
+                            
+
+
+
+                                Nurse Registries
+                            
+
+
+
+                                Organ Procurement Organizations (OPOs), Tissue Banks, Eye Banks
+                            
+
+
+
+                                Florida Organ and Tissue Donor Education Program
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Ruby
+                                                                Grantham
+                                                                
+                        Manager, Laboratory and In-Home Services Unit
+                                    
+
+Bureau of Health Facility Regulation
+2727 Mahan Drive - Mail Stop #32
+Tallahassee, FL 32308
+                                                    Phone: (850) 412-4500
+
+                    Email: Labstaff@ahca.myflorida.com
+Florida Relay Service (TDD): (800) 955-8771
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

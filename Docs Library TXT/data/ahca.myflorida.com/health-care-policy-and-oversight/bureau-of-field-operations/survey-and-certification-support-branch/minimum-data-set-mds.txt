@@ -1,0 +1,494 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minimum Data Set (MDS) | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Minimum Data Set (MDS)
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Survey and Certification Support Branch
+
+
+
+Minimum Data Set (MDS)
+
+
+
+
+
+
+
+
+
+
+
+Minimum Data Set (MDS)Email:Contact the Agency for Health Care Administration (Florida QIES Helpdesk) for MDS questions:FLQIES_HELP@ahca.myflorida.comFor questions related to Florida Medicaid --Email: FLMedicaidManagedCare@ahca.myflorida.com The MDS Helpdesk has an e-mail alert system to notify registered providers or interested parties of "late-breaking" MDS or Swing Bed information. Complete as much information using the registration link above and check MDS or Swing Bed for Provider Type and Opt-In to receive emails or Opt-Out if you wish to stop receiving emailsSign Up for MDS or Swing Bed AlertsNOW AVAILABLE: Final MDS 3.0 Item Sets version 1.19.1The final Minimum Data Set (MDS) 3.0 Item Sets version (v)1.19.1 are now available in the Downloads section on the Minimum Data Set (MDS) 3.0 Resident Assessment Instrument (RAI) Manual page. The MDS Item Sets v1.19.1 will be effective beginning October 01, 2024.January 12, 2024NOW AVAILABLE: Draft MDS 3.0 Item Sets version 1.19.1The draft Minimum Data Set (MDS) 3.0 Item Sets version (v)1.19.1 and Item Matrix are now available in the Downloads section on the Minimum Data Set (MDS) 3.0 Resident Assessment Instrument (RAI) Manual page. The MDS Item Sets v1.19.1 will be effective beginning October 01, 2024.NOW AVAILABLE: MDS 3.0 RAI User’s Manual version 1.18.11The Minimum Data Set (MDS) 3.0 Resident Assessment Instrument (RAI) User’s Manual version (v)1.18.11 is now available in the Downloads section on the Minimum Data Set (MDS) 3.0 Resident Assessment Instrument (RAI) Manual page. The MDS 3.0 RAI User’s Manual v1.18.11 will be effective beginning October 01, 2023.February 23, 2023Subject: iQIES for Minimum Data Set (MDS) Submission Release on April 17, 2023CMS is excited to announce that the transition of the Minimum Data Set (MDS) assessment submission and reporting functionality to the Internet Quality Improvement and Evaluation System (iQIES) will occur on April 17, 2023.To properly prepare for the transition, the QIES Assessment Submission and Processing (ASAP) system for MDS submissions will be turned off on Thursday, April 13 at 8:00 pm EST. Providers should submit completed MDS records prior to 8:00 pm EST on April 13th to QIES (ASAP) or wait until 8:00 am EST on April 17th to submit data in iQIES.Providers are expected to take into account all requirements when determining the date they submit completed MDS records, including but not limited to, submission timeliness, claims processing, and care planning requirements.CMS will provide additional information through various email notifications regarding training, technical guidance, details on what to expect, and more.Register for an iQIES AccountPlease note that failure to obtain access to iQIES prior to April 17, 2023 will impact your ability to submit MDS records.As mentioned in previous communications, nursing home and swing bed providers who are required to submit data to CMS must have at least one staff person assigned and approved as the facility Provider Security Official (PSO), who works for the provider and is responsible for approving all other users for their facility. For information and instructions to register for an iQIES account, please visit:https://qtso.cms.gov/news-and-updates/action-required-register-iqies-accountCMS Trainings Available for Review:Skilled Nursing Facility (SNF) Quality Reporting Program (QRP)  Introduction to the SNF QRP Web-Based Training The Centers for Medicare & Medicaid Services (CMS) is offering a web-based training course for those who are new to the Skilled Nursing Facility (SNF) Quality Reporting Program (QRP). This course is designed to provide a general overview of the program as well as a variety of links and resources for additional information. Specific topics include:Lesson 1: What is the Skilled Nursing Facility (SNF) Quality Reporting Program (QRP)?Lesson 2: The Minimum Data Set (MDS).Lesson 3: MDS Data Submission.Lesson 4: SNF QRP Resources.CLICK HERE to access the training.Confusion Assessment Method (CAM©) Video TutorialConfusion Assessment Method (CAM©) (24:54) ( https://www.youtube.com/watch?v=GGmp32-l5rg&feature=youtu.be )Brief Interview for Mental Status (BIMS) Video Tutorial         Brief Interview for Mental Status (BIMS) Video Tutorial (22:35) ( https://www.youtube.com/watch?v=qv-RhrFQoWE&feature=youtu.be )From Data Elements to Quality Measures – Cross-Setting QRP Web-Based TrainingFrom Data Elements to Quality Measures – Cross-Setting QRP Web-Based Training ( https://pac.training/courses/Data_Elements_to_QMs/#/ )Section M:  Skin Conditions - Assessment and Coding of Pressure Ulcers/Injuries Web-Based TrainingSection M:  Skin Conditions - Assessment and Coding of Pressure Ulcers/Injuries Web-Based Training ( https://pac.training/courses/Section_M/#/ )Forms:
+
+    MDS Merge/Split Request
+
+
+    [
+                    
+                137.5 kB
+    ]
+
+
+
+    MDS 3.0 Assessment Move Request
+
+
+    [
+                    
+                105.3 kB
+    ]
+
+
+
+    MDS 3.0 SubReq Correction Request
+
+
+    [
+                    
+                194.1 kB
+    ]
+
+
+
+    Data Restore Request
+
+
+    [
+                    
+                105.4 kB
+    ]
+
+
+
+    MDS 3.0 Manual Facility Level Change Request 
+
+
+    [
+                    
+                49.3 kB
+    ]
+
+
+
+    MDS 3.0 Manual Assessment Delete From Facility Request
+
+
+    [
+                    
+                268.2 kB
+    ]
+
+Useful MDS 3.0 Links:MDS 3.0 for Nursing Homes and Swing Bed ProvidersMDS 3.0 Technical InformationMDS 3.0 Training MaterialsCenters for Medicare & Medicaid Services SNF Prospective Payment Web site at http://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/SNFPPS/index.htmlQIES Technical Support Office (QTSO) at https://qtso.cms.gov/ . QTSO is CMS's contracted agent responsible for supporting the state MDS system.QTSO Vendor-MDS Information site at https://qtso.cms.gov/vendors/minimum-data-set-mds-vendorsNursing Home Compare at www.medicare.gov/NHCompare/Home.asp/Agency for Health Care AdministrationLong Term Care UnitResearch Data Assistance Center, a CMS contractor that provides free assistance to academic, government and non-profit researchers interested in using Medicare and/or Medicaid data for their research https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html
+
+
+
+
+
+
+
+
+
+                        Survey and Certification Support Branch
+                    
+
+
+
+
+
+                                Electronic Statement of Deficiencies and Plan of Corrections (ePOC)
+                            
+
+
+
+                                Minimum Data Set (MDS)
+                            
+
+
+
+                                Outcome and Assessment Information Set (OASIS)
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,596 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clinical Laboratory Fees and Test Counts | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Clinical Laboratory Fees and Test Counts
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Laboratory and In-Home Services
+
+
+
+Clinical Laboratory Fees and Test Counts
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Clinical Laboratory Fees and Test Counts
+Calculating Fees
+
+If you are accredited by an approved accreditation organization (A2LA, AABB, ASHI, CAP, COLA, or The Joint Commission), the biennial licensure fee is $100.
+If you are an out-of-state Laboratory, please let your accrediting organization know that you are seeking licensure in Florida so that the $100 fee can apply. Also, if you are surveyed by New York or Washington, please provide that information to qualify as an out-of-state exempt Laboratory and for the $100 fee. If not accredited, please count only tests on specimens from Florida laboratories.
+If you are performing non-waived tests including PPM testing and are not accredited by an approved accreditation organization, you will be assessed a biennial (two year) licensure fee based on the specialties and volumes of testing that you perform.  The table below describes those fees.
+
+Although CLIA CMS116 forms are a part of the Laboratory application packet submitted to the state, the CLIA program separately bills the Laboratory for payment. CLIA fees should never be sent to the State of Florida. 
+Annual Volume of Non-Waived Testing
+Number of Specialties
+Biennial Fee
+
+Not more than 2,000 tests per year
+NA
+$400
+
+More than 2,000, but not more than 10,000
+Not more than 3 testing categories
+$965
+
+Not more than 10,000
+ At Least 4 testing categories
+$1,294
+
+More than 10,000, but not more than 25,000
+Not more than 3 testing categories
+$1,592
+
+More than 10,000, but not more than 25,000
+At least 4 testing categories
+$2,103
+
+More than 25,000 but not more than 50,000
+NA
+$2,364
+
+More than 50,000, but not more than 75,000
+NA
+$2,625
+
+More than 75,000, but not more than 100,000
+NA
+$2,886
+
+More than 100,000, but not more than 500,000
+NA
+$3,397
+
+More than 500,000, but not more  than 1,000,000
+NA
+$3,658
+
+More than 1,000,000 tests
+NA
+$3,919
+
+Counting Tests
+Do not count:
+
+Waived tests
+Proficiency test samples
+Quality control samples
+Calculated test results
+Tests referred to another Laboratory
+
+
+Procedure
+How to Count
+
+All PPM tests
+Count each specimen as one test.
+
+Urinalysis dipstick (Non-waived)
+Count as one test, regardless of the number of reagent pads on the test strip.
+
+Urine Microscopic
+Count each specimen as one test.
+
+Chemistry Tests and Profiles
+Count each test individually, even if performed as part of a profile.  Do not count calculated results such as A/G & BUN/creatinine ratios, osmolality, etc. 
+
+Allergens
+Count each allergen as one test.
+
+CBC
+Count each measured CBC parameter (WBC/RBC/platelet/hemoglobin/MCV) individually.  Do not count calculated results such as automated hematocrit, indices, etc.
+
+Manual or automated WBC differentials
+Count manual or automated WBC differentials as one test, regardless of the number of parameters reported.
+
+Immunohematology tests
+Count each individual immunohematology test (ABO, Rh, antibody screen, antibody identification, crossmatch or other immunohematology test) as one test each.
+
+Cultures
+Count each culture type as one, regardless of the extent of identification.  (e.g., If a sputum specimen is provided for routine culture, gram stain, AFB smear and culture, and a mycology culture, it counts as five tests.
+
+Antimicrobial susceptibility tests
+Count each test as one, regardless of the number of disks.
+
+Direct parasite smear/concentration
+Count each specimen as one test.
+
+Trichrome stains, etc.
+Count each specimen as one test.
+
+Pathology and Cytology
+Count each specimen as one test.
+
+
+
+
+
+
+
+
+
+
+                        Laboratory and In-Home Services
+                    
+
+
+
+
+
+                                Clinical Laboratories
+                            
+
+
+
+                                End Stage Renal Disease (ESRD) Dialysis Facilities
+                            
+
+
+
+                                Forensic Toxicology Laboratories
+                            
+
+
+
+                                Home Health Agencies
+                            
+
+
+
+                                Exemption from Home Health Agency Licensure
+                            
+
+
+
+                                Nurse Registries
+                            
+
+
+
+                                Organ Procurement Organizations (OPOs), Tissue Banks, Eye Banks
+                            
+
+
+
+                                Florida Organ and Tissue Donor Education Program
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Ruby
+                                                                Grantham
+                                                                
+                        Manager, Laboratory and In-Home Services Unit
+                                    
+
+Bureau of Health Facility Regulation
+2727 Mahan Drive - Mail Stop #32
+Tallahassee, FL 32308
+                                                    Phone: (850) 412-4500
+
+                    Email: Labstaff@ahca.myflorida.com
+Florida Relay Service (TDD): (800) 955-8771
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

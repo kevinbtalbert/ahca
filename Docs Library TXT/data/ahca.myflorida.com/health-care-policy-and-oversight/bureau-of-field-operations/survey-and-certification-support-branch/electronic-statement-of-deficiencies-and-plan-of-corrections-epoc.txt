@@ -1,0 +1,562 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic Statement of Deficiencies and Plan of Corrections (ePOC) | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Electronic Statement of Deficiencies and Plan of Corrections (ePOC)
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Survey and Certification Support Branch
+
+
+
+Electronic Statement of Deficiencies and Plan of Corrections (ePOC)
+
+
+
+
+
+
+
+
+
+
+
+
+Florida QIES Help Desk          Survey and Certification Support Branch          Telephone: (850) 412-4501           Florida Relay Service (TDD):  (800) 955-8771           Fax: (850) 414-6946  Email: FLQIES_HELP@ahca.myflorida.com
+The Florida QIES Helpdesk has an e-mail alert system to notify registered providers or interested parties of "late-breaking" ePOC information. Complete as much information using the registration link below and check ePOC for Provider Type and Opt-In to receive emails or Opt-Out if you wish to stop receiving emails.
+
+Sign Up for ePOC Alerts
+
+Alert:
+On April 4,  2019 there was an upgrade to the sysem, one of the changes was the ePOC alerts  email now ends in .gov instead of .com
+Since the  sender’s email has changed, Providers will need to make sure emails from the  following addresses are whitelisted:
+
+
+aspen.alerts@qtso.cms.gov
+
+
+aspen.ePOC_notify@qtso.cms.gov
+
+
+These may be  being blocked or marked as SPAM since it is a new 'sender'. 
+If the emails  are not being stopped on entry, we will need to contact the vendor for further  scrutiny.
+ePOC Information 
+The Agency for Health Care Administration (AHCA) is participating with the Center for Medicare/Medicaid Services (CMS) electronic 2567 and plan of correction (ePOC) program. All certified skilled nursing homes must participate; Certified SNF/NFs are the only provider with the ePOC option.
+
+The ePOC program will allow enrolled Nursing Homes to:
+
+Review CMS 2567 Statements of Deficiencies (SODs) online
+Create and submit Plan of Corrections (POC) online
+Review letters added to the survey by the State Agency or CMS Regional Office
+Attach documentation to support their Plan of Correction
+After all POC's are approved, print the 2567 for posting from the ePOC website
+
+
+    ePOC Provider Step by Step Instructions to attach documents in ePOC
+
+
+    [
+                    
+                98.4 kB
+    ]
+
+
+
+Bulletins: 
+
+
+
+     Electronic Statement of Deficiencies and Plan of Corrections (ePOC) Implementation
+
+
+    [
+                    
+                67.3 kB
+    ]
+
+
+        - January 09, 2016
+
+ePOC Steps for Implementation
+
+
+GET READY 
+
+
+
+Identify staff who currently have authority to sign your paper POCs. Facilities must have between two and four users assigned to review/submit. We strongly encourage you to utilize all four available IDs.
+
+
+Review Documents:
+Each staff member with the authority to submit the ePOCs must complete the CMS Online Training:
+Complete the Attestation of Readiness ePOC Form
+           (Only one form needed per facility) 
+        :
+
+
+
+REGISTER 
+
+
+
+Individual Access:
+          https://qtso.cms.gov/access-forms/epoc-individual-access
+
+Existing MDS Account: If you already have an MDS account for your facility and would like to add ePOC access, you may use Access Update to do so. Refer to the 'Steps to Access ePOC Application' document for further instructions:
+          https://qtso.cms.gov/system/files/2018-03/ePOC_steps_0.pdf[  ]
+
+Multiple Facility / Corporate Access:
+          https://qtso.cms.gov/access-forms/epoc-multiple-facility-corporate-access
+
+
+
+
+IMPLEMENT
+
+
+
+Once there is at least one corporate or facility user, the facility will use ePOC with your next survey.
+
+CMSNet Access Request Form[  ]
+        (Only use this form to remove individual access or request access if online registration is unavailable.)
+          How to Complete and Save a PDF Form Electronically [  ]
+
+
+
+    Accessing Your ePOC Account
+
+
+    [
+                    
+                108.7 kB
+    ]
+
+
+        -- Follow these 8 steps to access your account at any time.
+
+Resources
+
+
+ The  
+National QIES Help Desk
+  will be glad to answer questions about the forms for access, passwords and general access to the system. 
+
+
+ The  
+Florida QIES Help Desk
+  will be glad to answer any requests related to how to use the ePOC system. 850-412-4501 or FLQIES_HELP@ahca.myflorida.com. 
+
+
+ The Field Office is still your contact for questions related to time frames for submitting the plan of correction and anything with the content of the 2567 form. 
+
+
+
+
+
+
+
+
+
+
+
+                        Survey and Certification Support Branch
+                    
+
+
+
+
+
+                                Electronic Statement of Deficiencies and Plan of Corrections (ePOC)
+                            
+
+
+
+                                Minimum Data Set (MDS)
+                            
+
+
+
+                                Outcome and Assessment Information Set (OASIS)
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FX Contracts | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+FX Contracts
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+FX Contracts
+
+
+
+
+
+
+
+
+
+
+
+FX ContractsFor FX contract and contract amendment information, please see the Florida Accountability Contract Tracking System (FACTS).The Agency procured professional services to support the Florida Health Care Connections (FX) transformation. The Strategic Enterprise Advisory Services (SEAS) vendor provides strategic, programmatic, and technical advisory services to the Agency. Independent Verification and Validation (IV&V) services are required by federal regulation 45 CFR § 95.626 to represent the interests of the Centers for Medicare and Medicaid Services and are required in accordance with the Florida Information Technology Project Management and Oversight Standards.FX Professional ServicesStrategic Enterprise Advisory Services (SEAS)Overview: The SEAS vendor operates the FX Enterprise Program Management Office, and maintains FX standards, plans, and technical architecture documentation to promote consistency across FX’s many vendors and projects.Status: The SEAS contract, MED191, was executed in September 2017 and was renewed through April 3, 2027.Contract Vendor: The North Highland Company(Updated: 11/2022)Independent Verification and Validation (IV&V)Overview: The IV&V vendor provides a rigorous independent evaluation and review that evaluates adherence to the standards, correctness, and quality of FX Program and projects’ solutions to help the Agency ensure that projects are being developed and managed in accordance with Federal, State, and Agency requirements.Status: The IV&V state term contract, 80101507-IVV-15-1 and purchase order number C074BA, was executed in June 2016, and reprocured July 2022 through June 2023 by purchase order.Contract Vendor: NTT Data(Updated: 11/2022)FX ModulesIntegration Services/Integration Platform (IS/IP)Overview: Foundation of interoperability – IS/IP serves as the conduit, or interface, through which all information is requested and returned. IS/IP includes a business rules engine that will ensure all federal and state Medicaid rules are accurately applied across all systems.Module Status: The IS/IP contract, MED205, was executed November 2019 and renewed through October 31, 2025. Project activities were separated into three Workstreams A, B, and C with some project activities running simultaneously. Workstream A was completed in August 2020. Workstream B was completed in November 2020. Workstream C was completed in January 2021.Contract Vendor: Accenture(Updated: 11/2022)Enterprise Data Warehouse (EDW)Overview: A combination of software, hardware, infrastructure, and services to support effective data analysis and predictive analytics related to health care utilization in Medicaid.Module Status: The EDW contract, EXD091,was executed in December 2020. The implementation will occur over 24 months with the first release being an established Operational Data Store from the existing Florida Medicaid Management Information System (MMIS).Contract Vendor: Deloitte(Updated: 11/2022)Unified Operations Center (UOC)Overview: Systems and infrastructure to support inbound and outbound communications between the Agency’s vendors and Medicaid providers and Medicaid recipients. The Unified Operations Center will coordinate and interact with phone, email, chat, short message service (SMS) text, social media, voice assistant, internal/external conference, physical mail and in person channels. It will gain administrative and operational efficiencies by consolidating multiple contact center systems by creating a central provider/recipient touch point.Module Status: The UOC contract, EXD106, was executed in October 2022.Contract Vendor: Automated Health Systems (AHS)(Updated: 11/2022)Core (Claims, Encounters, Financial and Electronic Data Interchange)Overview: The Core module adjudicates all fee-for-service claims for Medicaid reimbursement, processes all managed care encounter claims, and handles all Medicaid financial activity.Module Status: The Core contract, EXD110, was executed in March 2023.Contract Vendor: Gainwell Technologies(Updated: 04/2023)Provider Services Module (PSM)Overview: The Provider Services Module (PSM) will consolidate the health care facility and practitioner licensure and Medicaid enrollment and plan credentialing processes into a single source to minimize errors and confusion in the provider community. The Provider Services module will leverage the Unified Operations Center.Module Status: The PSM Contract , EXD115, was executed in October 2023.Contract Vendor: HHS Technology Group(Updated: 10/2023)Pharmacy Benefit Manager (PBM)Overview: The PBM Module performs financial and clinical services for the fee-for-service Medicaid population. PBM includes a system to process pharmacy claims and e-prescribing and integration with pharmacy point-of-sale systems, pharmacy fee collection, and pharmacy rate negotiation. It also includes prior authorization for certain required drugs.Module Status: Procurement planning for the PBM Module is currently projected to begin April 2023.Contract Vendor: To be determined.(Updated: 6/2020)
+
+
+
+
+
+
+
+
+
+                        Florida Health Care Connections (FX)
+                    
+
+
+
+
+
+                                FX Contact Us
+                            
+
+
+
+                                FX Contracts
+                            
+
+
+
+                                FX FAQs
+                            
+
+
+
+                                FX Governance
+                            
+
+
+
+                                FX History
+                            
+
+
+
+                                FX Interagency Collaboration
+                            
+
+
+
+                                FX Organization
+                            
+
+
+
+                                FX Strategic Roadmap
+                            
+
+
+
+                                FX Vendor Resource Library
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of Data Collection & Quality Assurance | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Office of Data Collection & Quality Assurance
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Agency Administration
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+Office of Data Collection & Quality Assurance
+
+
+
+
+
+
+
+
+
+
+
+Office of Data Collection & Quality AssuranceThe Office of Data Collection & Quality Assurance (DCQA) currently collects patient discharge data from all licensed acute care hospitals (including psychiatric and comprehensive rehabilitation units), comprehensive rehabilitation hospitals, ambulatory surgical centers, cardiac catheterization labs and emergency departments.AHCA collects patient discharge data in accordance with Section 408.061, Florida Statutes and Chapters 59E-7 and 59B-9.If you have any questions about your data submission, please reference the Agency FDDC Data Guide. This guide is the central source for information on current data collection rules, XML schemas, reporting calendars, forms, audit dictionaries, submission instructions and data element descriptions.New: Data Collection SystemComing soon: A new data collection system is operational for the Q4 2022 reporting period. Please notify your vendor and/or programmer with the updated schema changes.New data type schemas are AS10-5 and PD10-5. Schema changes are minimal, however will require updating for Q4 2022 submission. Schemas can be viewed at the URLs below:     
+
+
+
+
+    AS10-5 SCHEMA 59B-9.034.pdf
+
+
+    [
+                    
+                50 kB
+    ]
+
+ and     
+
+
+
+
+    PD10-5 SCHEMA 59E-7.12.pdf
+
+
+    [
+                    
+                55.5 kB
+    ]
+
+ The primary schema changes are in the Declaration and Header listed below:Change declaration schema to AS10-5 or PD10-5Delete Transcode Q lineUpdate Data typeAHCA number not zero padded in header or bodyDelete all Contact InformationDo not zero pad charges to a 7-character field <?xml version="1.0" encoding="UTF-8"?><HC_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.ahca.myflorida.com/xmlschemas/ AS10-5 or PD10-5.xsd"><HEADER><TRANS_CODE>Q</TRANS_CODE>  Delete this line<RPT_YEAR>2021</RPT_YEAR><RPT_QTR>2</RPT_QTR><DATA_TYPE>AS10-5 or PD10-5</DATA_TYPE><SUBMISSION_TYPE>I</SUBMISSION_TYPE><PROCESS_DATE>2021-08-13</PROCESS_DATE><AHCA_NUM>100001</AHCA_NUM>NOTE:NO LONGER 00100001<MEDICARE_NUM>0999999</MEDICARE_NUM><ORG_NAME>AHCA HOSPITAL</ORG_NAME><CONTACT_PERSON>    Delete all contact information<NAME>JANE SMITH</NAME><PHONE>(850)999-4306</PHONE><STREET>FT KNOW ROAD</STREET><CITY>TALLAHASSEE</CITY><STATE>FL</STATE><ZIP>32308</ZIP></CONTACT_PERSON></HEADER>
+
+    OSED Service Location Code
+
+
+    [
+                    
+                158.8 kB
+    ]
+
+ - Updated 10-05-2023
+
+
+
+
+
+
+
+
+
+                        Office of Data Collection & Quality Assurance
+                    
+
+
+
+
+
+                                Data Guide and Audit Dictionaries
+                            
+
+
+
+                                FAQs
+                            
+
+
+
+                                FDDC General Reporting Resources
+                            
+
+
+
+                                FDDC Training Resources
+                            
+
+
+
+                                Submit Patient Data and Contacts
+                            
+
+
+
+                                Blood Clot and Pulmonary Embolism Policy Workgroup
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Nancy
+                                                                Tamariz
+                                                                
+                        Unit Administrator
+                                    
+
+Office of Data Collection and Quality Assurance
+
+                    Email: Nancy.Tamariz@ahca.myflorida.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

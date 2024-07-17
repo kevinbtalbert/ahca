@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program Years 2020 and 2021 | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+Program Years 2020 and 2021
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Medicaid
+
+
+
+
+Electronic Health Record Incentive Program
+
+
+
+
+Meaningful Use Overview
+
+
+
+Program Years 2020 and 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program Years 2020 and 2021
+For Program Years 2020 and 2021, the following requirements apply:
+
+All providers must be utilizing 2015 Certified EHR Technology.
+All providers will have a minimum of any continuous 90-day EHR reporting period for the meaningful use objectives and measures.
+Clinical Quality Measures (CQMs)
+All providers must report on a 90-day CQM reporting period.
+All providers must report six (6) CQMs related to their scope of practice.
+In addition, Medicaid EPs are required to report on at least one outcome measure.
+If no outcome measures are relevant to that EP, they must report on at least one high-priority measure.
+If there are no outcome or high priority measures relevant to an EP's scope of practice, they must report on any six (6) relevant measures.
+
+Providers are still required to meet basic program requirements including being an eligible provider type and having at least 30% Medicaid volume (20% if a pediatrician).
+The CMS Specification Sheets for Stage 3 can be found here.[  ] Below are quick links to each of the eight (8) Stage 3 Measures:
+
+         2020/2021 Program Requirements Medicaid | CMS
+      
+Objective
+Description
+
+ Protect Patient Health Information[  ] 
+Protect electronic protected health information (ePHI) created or maintained by the certified electronic health record technology (CEHRT) through the implementation of appropriate technical, administrative, and physical safeguards.
+
+ Electronic Prescribing[  ] 
+Generate and transmit permissible prescriptions electronically.
+
+ Clinical Decision Support[  ] 
+Implement clinical decision support (CDS) interventions focused on improving performance on high-priority health conditions.
+
+ Computerized Provider Order Entry (CPOE)[  ] 
+Use computerized provider order entry (CPOE) for medication, laboratory, and diagnostic imaging orders directly entered by any licensed healthcare professional, credentialed medical assistant, or a medical staff member credentialed to and performing the equivalent duties of a credentialed medical assistant, who can enter orders into the medical record per state, local, and professional guidelines.
+
+ Patient Electronic Access to Health Information[  ] 
+The eligible professional (EP) provides patients (or patient authorized representative) with timely electronic access to their health information and patient-specific education.
+
+ Coordination of Care through Patient Engagement[  ] 
+Use CEHRT to engage with patients or their authorized representatives about the patient’s care.
+
+ Health Information Exchange[  ] 
+The EP provides a summary of care record when transitioning or referring their patient to another setting of care, receives or retrieves a summary of care record upon the receipt of a transition or referral or upon the first patient encounter with a new patient, and incorporates summary of care information from other providers into their EHR using the functions of CEHRT.
+
+ Public Health and Clinical Data Registry Reporting[  ] 
+The EP is in active engagement with a public health agency (PHA) or clinical data registry (CDR) to submit electronic public health data in a meaningful way using CEHRT, except where prohibited, and in accordance with applicable law and practice.
+
+
+
+
+
+
+
+
+
+
+                        Meaningful Use Overview
+                    
+
+
+
+
+
+                                Program Years 2020 and 2021
+                            
+
+
+
+                                Meaningful Use: Stage 2
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+

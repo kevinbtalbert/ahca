@@ -1,0 +1,563 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAQs | Florida Agency for Health Care Administration
+
+
+
+
+
+
+
+
+
+
+
+The state of Florida neither endorses links nor approves of links to external sources. External links are made available for the convenience of the internet user. The state of Florida takes no responsibility for a link's operation or content. The links that are shown are not an exclusive listing of organizations available within the state.
+Warning: You are leaving the AHCA website
+
+
+
+
+
+                No, Stay Here
+                
+
+
+
+                    Ok, I understand
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            An official website of the Florida State government.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Florida Agency for Health Care Administration
+                        
+
+
+
+
+
+
+
+About the Agency for Health Care Administration| 
+
+Contact AHCA| 
+
+Public Records| 
+
+Public Meetings 
+
+
+
+
+
+
+                                    Search
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Medicaid
+
+
+
+
+Go to Medicaid
+
+
+
+
+Medicaid Policy, Quality and Operations
+
+
+
+
+Medicaid Finance and Analytics
+
+
+
+
+Florida Health Care Connections (FX)
+
+
+
+
+
+
+Health Care Policy and Oversight
+
+
+
+
+Go to Health Care Policy and Oversight
+
+
+
+
+Bureau of Central Services
+
+
+
+
+Bureau of Field Operations
+
+
+
+
+Bureau of Health Facility Regulation
+
+
+
+
+Office of Medicaid Program Integrity
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Plans and Construction
+
+
+
+
+
+
+Agency Administration
+
+
+
+
+Go to Agency Administration
+
+
+
+
+About the Secretary
+
+
+
+
+Chief of Staff Office
+
+
+
+
+Information Technology Office
+
+
+
+
+Office of Inspector General
+
+
+
+
+Office of the General Counsel
+
+
+
+
+
+
+Find a Facility
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+FAQs
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+
+
+Agency Administration
+
+
+
+
+Florida Center for Health Information and Transparency
+
+
+
+
+Office of Data Collection & Quality Assurance
+
+
+
+FAQs
+
+
+
+
+
+
+
+
+
+
+
+FDDC FREQUENLTY ASKED QUESTIONSGENERALQ: What is the website address to register and submit data?A: https://apps.ahca.myflorida.com/fddcQ: Where can I get FDDC instructions?A: The Data Collection website has video and instruction for each process, or a Full Video is also available. Go to: AHCA: FCHIPA Home (myflorida.com) and select FDDC Training Resources on the right navigation bar.Q: When will the FDDC reporting system begin?A: Q4 2022 data reportingQ: Do I have to register to view and/or submit data?A: Yes. Anyone needing access must register with FDDC.Q: How do I add additional Users at my facility?A: The new contact must first register and request access. The contact with Admin Access will approve the new user. See Manage Registrations, Facility Contacts on Data Collection FDDC Training Resources.Q: Who can certify the data?A: The executive officer, administrator, or authorized designee. The facility may designate their facility contact to certify or the CEO, COO. The person responsible for certifying must be registered with FDDC.Q: Does the CEO need to register to certify?A: Yes. The CEO must register in FDDC to log in and certify.Q: What internet browser can I use?A: Chrome or EdgeQ: Is the reporting schedule the same?A: Yes. The facility dashboard grid also displays the Initial Due and Certification Dates.Q: Is a Data guide available?A: A FDDC Data Guide is posted on the website right navigation bar. FDDC General Reporting Resources and Training Resources are also available.Q: Is there a test site?A: No. You may upload your file as many times as needed to verify XML format.REGISTRATION and CONTACTQ: How Do I register for FDDC?A: Go to https://apps.ahca.myflorida.com/fddc. Select Sign Up (NOT Log In). Enter your email address and password. We recommend saving the password for easy access. Complete the profile information. Verify your ‘sign up email’.Q: What if I did not receive a Sign-Up email verification?A: Check your spam folder. If it’s not your spam folder, contact your IT department. The registration verification email address is: no-reply@auth0user.net. Ask your IT department not to block the no-reply email address above.Q: What if I don’t see anything on my dashboard?A: After registering in FDDC, you must Request Facility Access for your facilities. Go to     
+
+
+
+
+    Facility Registration
+
+
+    [
+                    
+                576.3 kB
+    ]
+
+ for instruction.Q: How do I change my contact email address?A: Unfortunately, the email addresses cannot be edited. You must Sign-Up again with the new email address.Q: How can I change the person in the location? The person we have in that area is no longer with the company.A: If you have Admin Access you can dent access. See Manage Registrations, Facility Contacts on     
+
+
+
+
+    Manage Registrations
+
+
+    [
+                    
+                1.6 MB
+    ]
+
+.SCHEMAQ: Does the schema need to be updated?A: Yes. The schema must be updated to the new AS10-5 or PD10-5 format below.<?xml version="1.0" encoding="UTF-8" standalone="yes"?><HC_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ahca.myflorida.com/xmlschemas/AS10-5.xsd"><HEADER><RPT_YEAR>2022</RPT_YEAR><RPT_QTR>4</RPT_QTR><DATA_TYPE>AS10-5</DATA_TYPE><SUBMISSION_TYPE>I</SUBMISSION_TYPE><PROC_DATE>2022-11-29</PROC_DATE><AHCA_NUM>99999</AHCA_NUM><MEDICARE_NUM>0999999</MEDICARE_NUM><ORG_NAME>AHCA HOSPITAL</ORG_NAME></HEADER>Q: What changed in the schema?A: The major change is the Header.The <TRANS_CODE> and <CONTACT_PERSON> lines are deleted.Data Type is either AS10-5 or PD10-5.AHCA number is no longer zero padded.Q: Where can I find the schema information?A: Data Collection website: AHCA: FCHIPASYSTEM ALERTSQ: What automated emails are system generated?A: FDDC sends system emails to the contact when registering and when their upload is ready to review. FDDC also sends Courtesy Reminders for Initial Due and Facility Review/Ready to Certify status at specified intervals. The registration verification email address is: no-reply@auth0user.net. Check your spam emails if you do not receive the email.Q: How can I communicate with the analyst?A: The easiest way is to send a Comment. Select Comment, select Add Comment, type your comments, select Email Analyst box at the screen bottom, press send. This alerts the analyst of a comment. The contact will receive email notification when the analyst replies.FACILITY STATUSQ: How can I check my status?A: The facility status is displayed on the facility dashboard grid.Q: What are the new Status categories?A:Initial Due                    File is not submitted yet for current quarterFile Accepted              File upload accepted and waiting for processing.Facility Review            Upload is ready for facility to review errors and reports.Analyst Review           Facility has requested analyst review for approval.Ready to Certify         Facility file is clean and waiting for facility to certify.Certified                       Facility had acknowledged and submitted certification.Exempted                    ASC has certified their facility visits were less than 200.Q: If my file has no errors or verifications, what is the next step?A: Select Submit and Review and Analyst Review for approval. The analyst will approve and change the Status to Ready to Certify.Q: If the error is correct, how can I ask for an override?A: Once all errors are corrected, click the Edit button and Request an Exception. Enter the reason and select update. Please refer to     
+
+
+
+
+    Facility Review and Submitting Analyst Review
+
+
+    [
+                    
+                351.9 kB
+    ]
+
+.Q: When can I request Analyst Review?A: When all errors are corrected and resubmitted. Make a Request for Exceptions if needed. Select Review and Submit for Analyst Review. Please refer to     
+
+
+
+
+    Facility Review and Submitting Analyst Review
+
+
+    [
+                    
+                351.9 kB
+    ]
+
+.Q: What happens in Analyst Review?A: The analyst will review any Exception Requests and either Approve or Deny. The analyst will also review the facility SRB summary report for questionable issues.Q: What happens when the analyst approves the analyst review request?A: When the analyst has reviewed and approved all errors and SRB, the analyst changes the status to Ready to Certify.Q: What happens if the analyst denies an Exception Request?A: If the analyst denies an Exception Request, the reason will appear in the exceptions view. Select the Click Here link above the grid to see all comments. The analyst will then change the status back to Facility Review. The facility should review comments and either make corrections and resubmit OR Request Exception again with corresponding comment. Please refer to     
+
+
+
+
+    Facility Review/Analyst Denials and SRB
+
+
+    [
+                    
+                393.6 kB
+    ]
+
+.Q: What happens if the analyst does not approve the facility SRB summary report?A: The analyst will send a comment to the facility. The facility must provide an explanation and send the comment back to the analyst. The analyst will change the status to Ready to Certify if approved or back to Facility Review if further action is needed. Please refer to     
+
+
+
+
+    Facility Review/Analyst Denials and SRB
+
+
+    [
+                    
+                393.6 kB
+    ]
+
+.Q: How do I view errors and/or verifications?A: Errors/verifications may be viewed online by selecting the drop-down arrow beside the error text for a listing of records flagged. You can select Export to generate an excel report of all errors. A separate export is required for Verification errors.Q: How long does it take after uploading a file before reports are ready for review?A: The facility will receive an email when their file is ready for review. The system runs the rule engine every 15 minutes. A file submitted after the 15-minute start will be placed in the queue for the next 15-minute run.Q: Will both the facility and analyst see the same on the dashboard for return of errors or verifications?A: Yes. Both will view the same errors and reports.Q: Is there any way to default to 50 per page on errors and verification instead of 10 per page?A: Yes. At the page bottom you can select the number of items per page, 10, 20 or 50.CERTIFICATIONQ: Will I be notified if my facility is Ready to Certify or in Facility Review?A: No. The system does not notify the facility when updated by the analyst. The facility must login and check their status regularly on their dashboard.Q: What is the next step when the facility status is Ready to Certify?A: The facility must log in, select Review and Submit, complete the certification information, and submit. Once the completed electronic certification is received, their status automatically changes to Certified. Please review     
+
+
+
+
+    Analyst Review and Certification
+
+
+    [
+                    
+                287.7 kB
+    ]
+
+.Q: IF you are not the CEO or officer, do we enter our name and position?A: Yes, if you are an authorized designee, enter your name and position.Q: Is there a way to print the certification?A: You will have to print screen and save to a file.XML FILE EDITING IN NOTEPADThe easiest way to correct errors in the XML file is editing in Notepad.Right click on XML fileSelect Open WithSelect NotepadMake sure you save your changes!
+
+
+
+EDITING THE HEADERINPATIENT<?xml version="1.0" encoding="utf-8"?><HC_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" CHANGE TO PD10-5 xsi:noNamespaceSchemaLocation="http://ahca.myflorida.com/xmlschemas/PD10-4.xsd"><HEADER><TRANS_CODE>Q</TRANS_CODE> DELETE THIS LINE<RPT_YEAR>2022</RPT_YEAR><RPT_QTR>2</RPT_QTR><DATA_TYPE>PD10-4</DATA_TYPE> CHANGE TO PD10-5<SUBMISSION_TYPE>I</SUBMISSION_TYPE><PROCESS_DATE>2022-09-17</PROCESS_DATE><AHCA_NUM>0000999999</AHCA_NUM> DELETE LEADING ZERO’S FOR ALL AHCA # IN FILESelect Edit, Replace, enter existing AHCA number, enter new AHCA number, Replace All
+
+
+
+<MEDICARE_NUM>9999999</MEDICARE_NUM><ORG_NAME>AHCA MEDICAL CENTER</ORG_NAME><CONTACT_PERSON>             DELETE ALL CONTACT INFORMATION<NAME>SUSIE QUE</NAME><PHONE>(850)412-9999</PHONE><EMAIL>Susie@gmail.com</EMAIL><STREET>2727 Mahan Dr</STREET><CITY>TALLAHASSEE</CITY><STATE>FL</STATE><ZIP>32308</ZIP></CONTACT_PERSON></HEADER><RECORDS>OUTPATIENT<?xml version="1.0" encoding="utf-8"?><HC_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   CHANGE TO AS10-5 xsi:noNamespaceSchemaLocation="http://ahca.myflorida.com/xmlschemas/AS10-3.xsd"><HEADER><TRANS_CODE>Q</TRANS_CODE>   DELETE THIS LINE<RPT_YEAR>2022</RPT_YEAR><RPT_QTR>2</RPT_QTR><DATA_TYPE>PD10-4</DATA_TYPE> CHANGE TO AS10-5<SUBMISSION_TYPE>I</SUBMISSION_TYPE><PROCESS_DATE>2022-09-17</PROCESS_DATE><AHCA_NUM>0000999999</AHCA_NUM> DELETE LEADING ZERO’S (if any) FOR ALL AHCA # IN FILESelect Edit, Replace, enter existing AHCA number, enter new AHCA number, Replace All
+
+
+
+<MEDICARE_NUM>9999999</MEDICARE_NUM><ORG_NAME>AHCA MEDICAL CENTER</ORG_NAME><CONTACT_PERSON> DELETE ALL CONTACT INFORMATION<NAME>SUSIE QUE</NAME><PHONE>(850)412-9999</PHONE><EMAIL>Susie@gmail.com</EMAIL><STREET>2727 Mahan Dr</STREET><CITY>TALLAHASSEE</CITY><STATE>FL</STATE><ZIP>32308</ZIP></CONTACT_PERSON></HEADER><RECORDS>Editing the AHCA number• Right click on the XML file• Select Edit and Replace• Enter the number from the file• Enter the new number• Select Replace All
+
+
+
+FINDING THE LINE NUMBER for SCHEMA ERRORS• Right click on the XML file• Select GO TO• Enter the line number.• Or click on a line and view the line number at the bottom of the screen
+
+
+
+FINDING ERRORS IN XML FILE BY RECORD ID• Right click on the XML file• Select Find• Enter the Record ID from the error report• Select Find to go to the record ID
+
+
+
+
+
+
+
+
+
+
+
+
+                        Office of Data Collection & Quality Assurance
+                    
+
+
+
+
+
+                                Data Guide and Audit Dictionaries
+                            
+
+
+
+                                FAQs
+                            
+
+
+
+                                FDDC General Reporting Resources
+                            
+
+
+
+                                FDDC Training Resources
+                            
+
+
+
+                                Submit Patient Data and Contacts
+                            
+
+
+
+                                Blood Clot and Pulmonary Embolism Policy Workgroup
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Document reader download links:
+
+
+ MS Word Viewer
+
+
+ MS PowerPoint Viewer
+
+
+ Windows Media Player
+
+
+ Quicktime Media Player
+
+
+ Windows Media Player
+
+
+ WinRar
+
+
+ Adobe PDF Reader
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return to top
+
+
+
+
+
+
+
+
+
+
+
+
+ahca.myflorida.com
+
+                                      Official website of the State of Florida
+                                    
+
+
+
+
+
+
+
+
+
+
+                        © 2024 Florida Agency for Health Care Administration
+                    
+
+
+
+
+
+
+
+
+
+
+
+
